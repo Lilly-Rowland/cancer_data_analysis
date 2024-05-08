@@ -1,0 +1,687 @@
+ssm_id	dna_change	protein_change	type	consequence	num_cohort_ssm_affected_cases	num_cohort_ssm_cases	cohort_ssm_affected_cases_percentage	num_gdc_ssm_affected_cases	num_gdc_ssm_cases	gdc_ssm_affected_cases_percentage	vep_impact	sift_impact	sift_score	polyphen_impact	polyphen_score
+92bc7074-9d74-53e7-a7c9-3a014dfbd9a1	chr11:g.533874T>C	HRAS Q61R	Substitution	Missense	12	236	5.08	31	16477	0.19	MODERATE	tolerated	0.07	benign	0.1
+766dd997-0646-5a89-9708-073ef34fd54d	chr10:g.43121968T>C	RET M918T	Substitution	Missense	4	236	1.69	4	16477	0.02	MODERATE	deleterious	0.0	probably_damaging	1.0
+e50349b3-4949-5860-ba81-547c34f2427a	chr3:g.41224645T>C	CTNNB1 S45P	Substitution	Missense	4	236	1.69	22	16477	0.13	MODERATE	deleterious	0.0	probably_damaging	0.986
+1b05d435-7acb-58d8-9192-ed7ffeae7bd4	chr8:g.38417331G>T	FGFR1 N577K	Substitution	Missense	2	236	0.85	10	16477	0.06	MODERATE	deleterious	0.0	probably_damaging	0.989
+5a9b5363-5d2b-58d5-8816-456e8f840092	chr11:g.533875G>T	HRAS Q61K	Substitution	Missense	2	236	0.85	11	16477	0.07	MODERATE	deleterious	0.02	benign	0.067
+78066279-06cf-5b55-bc10-10eeba4ec015	chr1:g.6197725delT	RPL22 K15Rfs*5	Deletion	Frameshift	2	236	0.85	199	16477	1.21	HIGH				
+eac1e1d2-b4bd-5ddc-830b-ac84dc94976a	chr2:g.46380267A>G	EPAS1 Y532C	Substitution	Missense	2	236	0.85	2	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+00df199e-2ea4-5174-9938-787dfbdba89c	chr20:g.58910021G>T	GNAS G947W	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+00ff2026-9276-5c0b-a7b5-5a66dca8ba89	chr8:g.17938901A>T	PCM1 S168=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+011684c7-2c14-5c55-bd7c-27103d8abd74	chr8:g.107958135A>G	RSPO2 C187=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+01586c41-23dc-5501-917d-221edb67283d	chr2:g.140541020C>A	LRP1B C2489F	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.994
+0188b64e-9d09-5967-b1eb-7b778023229a	chr8:g.138178649C>A	FAM135B K305N	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.05	possibly_damaging	0.879
+01e991fd-785f-5c88-8024-3734ce007f9d	chr9:g.90874737G>C	SYK E357Q	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.996
+01fdfab3-d38c-5b9a-947a-87b9fb5ada76	chr8:g.89970486delT	NBN E259Nfs*17	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+01fe2280-1b48-5590-a80c-81cc0f4a9114	chr19:g.7743185C>T	CD209 A357T	Substitution	Missense	1	236	0.42	3	16477	0.02	MODERATE	deleterious	0.04	benign	0.12
+026b737a-2f7d-593d-960f-9e74bb17be24	chr3:g.195789708T>C	MUC4 T624=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+02c6432f-6bbd-57ff-af27-4077848ec7be	chr22:g.29048395C>T	ZNRF3 R307W	Substitution	Missense	1	236	0.42	5	16477	0.03	MODERATE	deleterious	0.0	probably_damaging	0.989
+0313a877-ef4e-560b-b5ff-548c6b0b0cf3	chr2:g.99593733G>C	AFF3 S668C	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.05	benign	0.012
+032a8c82-e26c-5338-8313-34724eb52226	chr4:g.186600194G>T	FAT1 T3938K	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	1.0	probably_damaging	0.999
+03660784-8742-5e1d-96e6-b782333b8ba6	chr3:g.41224633A>G	CTNNB1 T41A	Substitution	Missense	1	236	0.42	28	16477	0.17	MODERATE	deleterious	0.0	probably_damaging	0.984
+0410ce7b-98e3-5e21-bb2d-44dcda9113b1	chr15:g.74044374C>G	PML P672R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+04c5a81b-02f6-5011-91cd-65d9071f20aa	chr16:g.10906833T>G	CIITA F448L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.1	benign	0.159
+04cc00c2-efaa-5c2b-bf81-08f7599bb911	chr17:g.7675097delACCTCCGTCATGTG	TP53 H168Cfs*8	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+05627c67-1930-500e-bf1a-76310509f934	chrX:g.130014868C>A	BCORL1 P699Q	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.65	benign	0.342
+06268e93-299f-5e7c-b797-3e414d94f365	chr22:g.20086222A>G	DGCR8 I87V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated_low_confidence	0.68	benign	0.0
+06edd8f1-9506-560c-9a19-949057fc74b6	chrX:g.155065908C>A	MTCP1 E35*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+0744a04e-80a7-5f6e-a746-c601c0665f2c	chr22:g.23181556G>A	BCR R199H	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	benign	0.271
+07a60784-87f9-5d1e-9e14-18c48db62222	chr1:g.6186778delTTC	RPL22 K93del	Deletion	Inframe Deletion	1	236	0.42	1	16477	0.01	MODERATE				
+07e85ad7-14f8-59fe-92f8-83f43d4f6666	chr7:g.13931730C>T	ETV1 E206K	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.995
+098285a9-e38c-5683-8169-4a86defce7bb	chr12:g.112456029A>G	PTPN11 D241G	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.42	benign	0.0
+09d83297-c540-5b0d-9bab-b8643e00f957	chr10:g.43112119T>A	RET C515S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.32	benign	0.13
+09ddc2ea-8e1a-57cc-a0aa-2f540bce4709	chr1:g.64855584G>A	JAK1 H525Y	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.12	probably_damaging	0.986
+09e3a48a-6722-5426-ac63-90af34823d31	chr3:g.41224613G>A	CTNNB1 G34E	Substitution	Missense	1	236	0.42	17	16477	0.10	MODERATE	deleterious	0.03	probably_damaging	0.999
+0a1dc64e-fa9c-5c02-824c-de186ce1e213	chrX:g.124081415delT	STAG2 F938Lfs*11	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+0ad44193-1e72-5828-8c09-18bbc7d58b78	chr2:g.224514771T>A	CUL3 D127V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.96
+0addc797-31a2-59f5-9864-795e3d2cb4c4	chr15:g.52397353C>A	MYO5A K389N	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+0b05433f-70c6-5431-9a82-2c35a2d62826	chr1:g.7663732G>T	CAMTA1 Q395H	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	probably_damaging	0.986
+0b64992b-78a7-5ed8-a7de-37ccab134b91	chr5:g.177093334A>G	FGFR4	Substitution	Splice Region	1	236	0.42	1	16477	0.01	LOW				
+0b730e7b-ca97-590a-b099-f16561d1a48e	chr2:g.108767619A>C	RANBP2 L2360F	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+0b9d3602-03cd-5787-bd33-1de175ca1a56	chr2:g.29531965G>A	ALK H368=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+0c08baf7-4735-5804-adf6-312e718e0ea5	chr15:g.92956546C>G	CHD2 L633V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.94
+0c15f9e2-537d-57e1-aa57-08a3ad9b831a	chr2:g.222918119C>T	ACSL3 I210=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+0c2d8603-c3c8-5802-91db-ec830956926d	chr10:g.31461186G>T	ZEB1 G70W	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.08	possibly_damaging	0.715
+0c62b251-a9f8-5de1-8a75-fc527664bc82	chr11:g.32392694C>A	WT1 Q442H	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.02	probably_damaging	0.98
+0cab9595-34c2-5e01-b243-5bf06b4c3ccb	chr6:g.26031691C>G	H3C2 D124H	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	deleterious_low_confidence	0.02	possibly_damaging	0.545
+0cf315c3-497a-50fa-9660-3797076d34d4	chr9:g.21974724delCCCGCCTCCAGCAGCG	CDKN2A A30Gfs*18	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+0d797d3c-ca18-59f6-80a0-e5572d70ec3c	chr17:g.7674894G>A	TP53 R213*	Substitution	Stop Gained	1	236	0.42	89	16477	0.54	HIGH				
+0dd6f93e-bf59-5951-bac1-edf72893a20a	chr8:g.113314618G>T	CSMD3 Y118*	Substitution	Stop Gained	1	236	0.42	2	16477	0.01	HIGH				
+0dfcde37-d3c7-5d9f-a068-4991909ad0e9	chr20:g.51790771C>T	SALL4 C571Y	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+0e45d932-4a00-5b97-8d52-7475cc5be9ce	chr14:g.95105083delG	DICER1 P1086Lfs*9	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+0e71250a-7c7d-55bb-ab64-bcff7a968fd7	chr18:g.53450504G>A	DCC P1078=	Substitution	Synonymous	1	236	0.42	2	16477	0.01	LOW				
+0f08629c-caa7-521a-87c4-d89b0ba6e580	chr2:g.25744003_25744004insG	ASXL2 V779Sfs*25	Insertion	Frameshift	1	236	0.42	3	16477	0.02	HIGH				
+101f1065-47d2-5388-b7d6-adb6e052f169	chr12:g.49026390C>T	KMT2D L5192=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+10999c3d-ae6a-57ee-bca8-9923f0e67469	chr17:g.31206263delGATTGATGCTGTG	NF1 K428Nfs*41	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+10bc34e6-5f7e-5e8b-970a-a8fcbd5f5563	chr11:g.534286C>G	HRAS G13R	Substitution	Missense	1	236	0.42	13	16477	0.08	MODERATE	deleterious	0.0	probably_damaging	0.975
+11177d66-a06c-55fc-934c-df772b089598	chr2:g.157770433T>A	ACVR1 E242V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.997
+1121d257-1db9-5d0d-9c5e-26597a1ab0f2	chr2:g.29222343C>T	ALK X1172_splice	Substitution	Splice Donor	1	236	0.42	2	16477	0.01	HIGH				
+11666dee-144d-5c24-b369-ab108375e06a	chr10:g.112951591C>A	TCF7L2 S122*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+1172e266-575a-53fb-b291-63189c4223f1	chr4:g.1916934G>T	NSD2 W275L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.703
+1178541f-a649-5afc-b921-81f9a81b8034	chr12:g.65077780G>A	WIF1 V121=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+11f08e32-76cf-5ff4-97ff-fd5abd63d2dc	chr7:g.2906672C>T	CARD11 R1144H	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.13	benign	0.01
+1220f02b-803b-56f7-823e-d3371bdfc06f	chr17:g.68530413delC	PRKAR1A Q371Sfs*70	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+12db8271-fcdb-50a5-ab8c-30eade0fb239	chr4:g.54287481T>G	PDGFRA Y872D	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+131539c0-34d7-57b8-8a0c-fd6d5ba8b41d	chr19:g.10986441C>T	SMARCA4 A203V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.04	probably_damaging	0.996
+1331fcae-7751-5abd-968b-1168e5873918	chr8:g.113436823G>T	CSMD3 A11E	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated_low_confidence	0.09	benign	0.306
+13544fcd-943c-524d-a6e7-1520debf9f7f	chr5:g.180619752C>T	FLT4 G854S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+1413d4c8-326f-59b0-9e6b-080c73661de0	chr2:g.140358925G>T	LRP1B T3718K	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.56	benign	0.375
+145852b5-d236-54f8-8324-b82fbd3b40d8	chr9:g.8528683C>A	PTPRD S150I	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.04	benign	0.406
+147f387e-5d1b-51de-9c4a-bf3aa1556422	chr12:g.50819678A>C	ATF1 K239Q	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+14bfec7d-fc3c-53c1-b2be-cf7f2197f5c0	chr17:g.42326162G>A	STAT3 T472I	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.08	benign	0.401
+1539e86c-54cc-5dff-bf0f-511a5bb9d7cd	chr17:g.7670699C>T	TP53 R337H	Substitution	Missense	1	236	0.42	3	16477	0.02	MODERATE	tolerated	0.09	possibly_damaging	0.719
+15b24611-a81a-5724-934a-9b48e0bf582e	chr9:g.134053285C>T	BRD3 A65T	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	deleterious	0.01	possibly_damaging	0.618
+15c415aa-c4bc-5b8c-b4fb-55af2187d735	chr8:g.100713091T>G	PABPC1 Q245P	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.85
+15dbcce4-1f4d-5345-89d2-d8bc2e46a632	chr6:g.151880737C>G	ESR1 L242=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+17579cb5-45b2-5d79-9527-c450107fcec0	chr7:g.98988961G>A	TRRAP A3196T	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.994
+17672ef3-df11-5377-a0da-1be2e1ac8612	chr12:g.6951619C>T	PTPN6 R7*	Substitution	Stop Gained	1	236	0.42	2	16477	0.01	HIGH				
+17f395fe-7711-505b-bb9d-8716c92a9070	chr6:g.33320451delTCTTT	DAXX R394Sfs*22	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+19617477-ab4c-599f-b1ae-8b0a1186f36f	chrX:g.37008501G>A	FAM47C A31T	Substitution	Missense	1	236	0.42	4	16477	0.02	MODERATE	tolerated	0.23	benign	0.307
+198bee5b-7c64-5ad2-82b5-b3f17249276a	chr1:g.50974172G>A	CDKN2C G137R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+199ffc36-3296-5de4-9af5-f30cf64a04c8	chrX:g.130013258G>T	BCORL1 L162F	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated_low_confidence	0.15	possibly_damaging	0.901
+19e05d6d-b2c1-571d-b6f5-b8983c75e3d0	chr1:g.110341449G>C	RBM15 D682H	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.02	benign	0.276
+1a9dc6a1-1f7b-5423-b937-609c45675435	chr7:g.92082542T>C	AKAP9 H2704=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+1aeaa0c9-746d-599b-94ca-6f565b734a4f	chr1:g.15935266C>G	SPEN A3009G	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.28	benign	0.024
+1b42981c-5aa1-5f83-b8e6-8d0f05d9f6ca	chr2:g.108753109C>A	RANBP2 P623T	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.01	possibly_damaging	0.702
+1ce8c655-15ee-5a21-b6ac-26d5b3469fa8	chr17:g.31230280delATATGGTCCATGCAAT	NF1 N1004Ifs*3	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+1cf121bf-41fe-5e3f-b57d-23a2a16a59a1	chr4:g.86780454A>G	PTPN13 K1987E	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.71	benign	0.003
+1cffa01f-ec38-5f4d-8b7e-cb5a2f243983	chr17:g.31169975delA	NF1 K189Nfs*2	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+1d25eab5-3476-5164-8531-8070336f8fea	chr11:g.118504129G>C	KMT2A R2746T	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	benign	0.265
+1d75dec6-4ece-5f03-993c-f0077edf7736	chr7:g.86786603G>A	GRM3 V271I	Substitution	Missense	1	236	0.42	5	16477	0.03	MODERATE	tolerated	0.07	benign	0.056
+1dfd2721-7c9a-56c8-aa68-e4e1d81a74b8	chr17:g.31214530_31214531insTT	NF1 L492Ffs*7	Insertion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+1eef8bc3-0943-5c05-8801-dc184f8e4935	chr2:g.176093135G>T	HOXD13 R82L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.05	benign	0.026
+1f57398f-c83d-5597-8a4f-766cece2fe33	chr6:g.33320847G>A	DAXX Q310*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+1fc2a53a-f503-58c9-96d2-49a633df2b02	chr2:g.46380264C>T	EPAS1 P531L	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+200f323e-3b1e-50a2-b2bd-ae4a62a03183	chr5:g.112767342A>G	APC N125S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.54	benign	0.012
+205ac6fe-06c2-5dd6-8474-f9d4804bb004	chr9:g.93289491C>T	WNK2 G1616=	Substitution	Synonymous	1	236	0.42	2	16477	0.01	LOW				
+20858e15-96fb-592b-9798-1a48895338d9	chr21:g.34886905A>G	RUNX1 F97L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.13	probably_damaging	0.994
+20accbd3-6acc-5dca-8f8f-7304571f2b57	chr3:g.77574530A>G	ROBO2 Y668C	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+20cbabd0-13e8-51fd-853b-bdc63759b3be	chr5:g.11397105G>A	CTNND2 L180=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+211b86de-05bd-59d0-8bd2-a721ee581cc8	chr2:g.47480760delAG	MSH2 E842Vfs*3	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+2180da8e-2601-5d2c-afc1-104a1e9b53c6	chr11:g.92883288_92883289insG	FAT3 V4280Rfs*33	Insertion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+2190ff88-26f3-5954-9759-5f0139a23770	chr11:g.118498037G>C	KMT2A K1922N	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.906
+21b64446-cfa3-516e-b669-a98ecf0cb488	chr7:g.5987136G>A	PMS2 D543=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+21d2bba6-6c2c-584c-8563-e2b0536631e9	chr12:g.6678239delG	ZNF384 R192Gfs*16	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+220d802b-a1db-52b0-89dd-eebc25ab60b9	chr18:g.58744496G>A	MALT1 X637_splice	Substitution	Splice Donor	1	236	0.42	1	16477	0.01	HIGH				
+222ececa-42a0-530a-a366-98ab8348fe22	chr3:g.179201415C>A	PIK3CA R230=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+227dfc25-2f30-5c7c-8e3b-7d3c9863fb57	chr19:g.44757131G>A	BCL3 A212T	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.03	probably_damaging	0.914
+22ce892d-1562-590a-ad54-79fb8db80081	chr9:g.8389380G>T	PTPRD A1413D	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.975
+22fa1be0-18e9-5e67-bf51-c353f926782b	chr3:g.142513591C>G	ATR M1517I	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	1.0	benign	0.003
+230325ec-cb29-5830-a22f-fe20644f2ec5	chr3:g.155893678C>T	GMPS A63V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.37	benign	0.001
+23b06a9b-3aec-5107-8e2d-9d1f2c07e460	chrX:g.130013259G>T	BCORL1 D163Y	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	possibly_damaging	0.906
+2423223d-3139-5fdb-bc0b-5771c9d26e15	chr17:g.31229974G>C	NF1 R997T	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.908
+243b758b-dfa3-5fa7-917b-3cb5af5dbb23	chr19:g.8960701T>A	MUC16 S5357C	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.01	possibly_damaging	0.634
+248457ca-8f18-5931-85a5-6be6d7e8acb4	chr3:g.41224641delTCCTTCTCTGAGTGGTAAAGGCAA	CTNNB1 S45_P52del	Deletion	Inframe Deletion	1	236	0.42	1	16477	0.01	MODERATE				
+24985075-910a-55bf-bc80-fabd819687ca	chr17:g.7676398delG	TP53 P27Lfs*17	Deletion	Frameshift	1	236	0.42	8	16477	0.05	HIGH				
+24f1af82-d19b-52f9-b983-763712d258b3	chr11:g.92891047G>A	FAT3 V4536=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+262678ef-f6d9-5796-adf3-4d127834c980	chr18:g.26035920T>C	SS18 H295R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.02	possibly_damaging	0.663
+265dacfc-187a-54ef-8c99-23a2958c21e6	chrX:g.53411871delCTT	SMC1A E381del	Deletion	Inframe Deletion	1	236	0.42	2	16477	0.01	MODERATE				
+2666eecf-177d-56e9-9fb9-ca421459eff2	chr20:g.58909365C>T	GNAS R844C	Substitution	Missense	1	236	0.42	19	16477	0.12	MODERATE	deleterious	0.01	probably_damaging	1.0
+26a51443-f6ef-579c-98e6-b95eb1257463	chr17:g.31249044delGTTCTTCCATGCCATC	NF1 F1346Sfs*27	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+26f15366-c8d7-5e9e-ad87-83eff78e982a	chr15:g.66435105delTCTTACCCAGAAGCA	MAP2K1 F53_Q58delinsL	Deletion	Inframe Deletion	1	236	0.42	1	16477	0.01	MODERATE				
+27155d84-4aa1-56f6-a7dc-47865dda7193	chr2:g.46380263C>T	EPAS1 P531S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+2775106f-cc74-51b9-bee9-248282bc711f	chrX:g.154359636G>A	FLNA S1330=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+278cf4cc-9e2d-5928-8092-7d24b11fde8b	chr4:g.86722428A>C	PTPN13 K534N	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.06	benign	0.394
+2810d0d7-83df-598d-8f7b-d604a3cf8b79	chr8:g.112310991G>T	CSMD3 V2624=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+288270ae-8836-59a7-8bcf-4970c7a24728	chr15:g.34356378G>T	NUTM1 L790=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+28f862c4-00a6-5eec-bd5e-00b66cf53168	chrX:g.15823020A>G	ZRSR2 K409=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+2923f437-ff31-524f-85cb-6bf542f46eb0	chr5:g.150056326C>T	CSF1R V779M	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.988
+293e1465-b94e-5906-b0b3-2b6fedb42a6c	chrX:g.154348959G>A	FLNA R2612W	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.04	probably_damaging	0.918
+2973f381-acac-57f1-81b5-271ea5d64b3b	chr8:g.144513385G>A	RECQL4 R766W	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.01	benign	0.233
+2a159aa8-502f-5ffd-92c4-35ca1e4e10d3	chr3:g.14158637G>A	XPC R416C	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.03	possibly_damaging	0.446
+2ad68df3-3c91-5a4c-ac05-837510d1b7be	chr22:g.31345434C>T	PATZ1 A57T	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	probably_damaging	0.997
+2b0e41e0-ff41-5d8f-b1d6-23d21f674221	chr6:g.157184366G>T	ARID1B E1284*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+2b37c15d-e0dc-5507-937b-02be11fdde0c	chrX:g.126164586C>A	DCAF12L2 G447W	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+2b6cd0df-29a5-557c-a117-b85bc80cca71	chr11:g.3731492G>T	NUP98 V560=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+2bf65fb2-9269-5368-aee6-59d276d966db	chr12:g.132648945C>T	POLE G1378D	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.11	benign	0.003
+2c1b28c9-11a0-58eb-9388-df47f319d80a	chr1:g.114405519C>A	TRIM33 E887*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+2ca636ad-4792-5df5-a3b2-94d672ad1153	chr21:g.38445485G>C	ERG P59R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.01	possibly_damaging	0.707
+2cb444bf-7f51-557e-bb19-014f57ce60cb	chr7:g.86786630G>C	GRM3 D280H	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+2cb82ee8-25f4-56b9-8900-0901fe2bd3a4	chr12:g.56719570C>T	NACA D654N	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.58	benign	0.0
+2da36eb2-ea9a-56bc-914b-fa8036a3b00d	chr7:g.146116905G>C	CNTNAP2 G10A	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated_low_confidence	0.46	benign	0.006
+2db128f1-1c84-5a00-974e-bf3cbb424b16	chr11:g.118765239G>A	DDX6 R206*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+2deca602-bfc7-54f8-893d-907e24c2ab34	chr17:g.7675095C>A	TP53 V173L	Substitution	Missense	1	236	0.42	14	16477	0.08	MODERATE	deleterious	0.0	possibly_damaging	0.827
+2e0757c7-54d1-5159-ba1e-d51e08a7899c	chr2:g.211725146G>A	ERBB4 P224L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.02	possibly_damaging	0.528
+2e4427b2-8a50-5bd6-810c-b3e88eea0395	chr19:g.8959658A>T	MUC16 T5704=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+2f03a7d4-909f-5cfc-8ca7-ea330179da33	chr6:g.33320546C>G	DAXX R362P	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.982
+2f1aa5ba-c411-5bed-b9e2-d38a6bc243cb	chr6:g.41684637G>T	TFEB R479=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+2f3cfea7-1867-5e8b-a966-71c0e46694ac	chr2:g.46380261C>T	EPAS1 A530V	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+30268079-29b0-5c58-a219-99058af74981	chr22:g.31345487C>A	PATZ1 R39L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	probably_damaging	0.997
+30ac73fc-8641-5d94-a956-c690bde91285	chr3:g.77477516C>G	ROBO2 T164S	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	tolerated	0.27	benign	0.059
+31ac94a6-dbe0-5803-98e8-83a1f9124084	chr1:g.156136320G>T	LMNA E422*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+31fcafd2-4249-5e8e-b1eb-9ffb2f13ce53	chrX:g.130056076C>T	BCORL1 Y1692=	Substitution	Synonymous	1	236	0.42	2	16477	0.01	LOW				
+31fde7b2-b95d-50fe-940c-5a1ac5528a5c	chr1:g.11109320T>A	MTOR I2500F	Substitution	Missense	1	236	0.42	3	16477	0.02	MODERATE	deleterious	0.0	probably_damaging	0.926
+333096c7-b26d-5f77-abb5-26941b29e9ec	chr2:g.140297821G>T	LRP1B D4318E	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.29	benign	0.028
+335ebdbe-5400-50e4-9f22-17510bf68a68	chr1:g.15493946G>A	CASP9 D368=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+33e2e3f4-da27-5d8e-a8a4-173aa7a7b650	chr11:g.92801225G>A	FAT3 V2738I	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.33	benign	0.102
+343881ad-390f-55fb-838c-e0c3e2c80b9e	chr11:g.64806345G>C	MEN1 Y312*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+35125d5e-cefe-56ff-96f9-59a810c71b0b	chr1:g.193150352T>G	CDC73 Y293D	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.993
+374b9fbe-c8ee-5b32-a55a-d6634bd360fe	chr16:g.68833408delCAGA	CDH1 D875Kfs*8	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+37a777bf-7ea3-5322-80b2-4ec0306d5241	chr15:g.52353902T>G	MYO5A K1179T	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.15	possibly_damaging	0.503
+38cebbb2-6e46-5f9e-ab19-e539c44f6503	chr18:g.44951487G>A	SETBP1 S716N	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.676
+38d20c4b-db2d-5957-b47f-e7e598b91796	chr19:g.8955334C>G	MUC16 E7146Q	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated_low_confidence	0.09	possibly_damaging	0.629
+390c2563-5cbf-5f0f-a9ec-9fd0d60429d6	chr10:g.121485522C>T	FGFR2 G691R	Substitution	Missense	1	236	0.42	3	16477	0.02	MODERATE	deleterious	0.0	probably_damaging	1.0
+3a44be98-65d6-5037-816b-5e018638723e	chr12:g.56093404C>T	ERBB3 S445F	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+3a5ef8a8-c57e-5118-b975-3bb2f9e11dbe	chr5:g.150130561A>G	PDGFRB S449P	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.11	benign	0.328
+3ab866de-e3ea-563f-8c8b-121728d5bde9	chr11:g.92883353C>T	FAT3 C4299=	Substitution	Synonymous	1	236	0.42	4	16477	0.02	LOW				
+3acb0bc8-261c-526c-b087-b856c4980f0e	chr3:g.47116671T>A	SETD2 E1513V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.16	benign	0.027
+3ad4461f-806a-579a-b41c-a4027bde0f47	chr8:g.70123933G>A	NCOA2 S1415L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.01	probably_damaging	0.983
+3b11ea23-3dea-5072-8e6b-d7ebd53005b7	chr1:g.18691912G>T	PAX7 E249*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+3b18ccac-7a7c-5047-8ca6-a6b1a26c0d4e	chr15:g.74022967C>T	PML Q248*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+3b4b6c30-89ca-5c01-9e19-bc3af9973607	chr9:g.95482199A>G	PTCH1 W197R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+3b569d91-f521-5ec2-a95f-08f668c947f0	chr17:g.31201463C>G	NF1 S413*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+3bd27d90-1eec-5a8a-84b3-6c11ae375ae4	chr5:g.69389141A>T	RAD17 S345=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+3ce38a8a-f328-51eb-bc56-45f3e4f0b739	chr17:g.7675060delATCTGAGCAGCGCTC	TP53 E180_D184del	Deletion	Inframe Deletion	1	236	0.42	1	16477	0.01	MODERATE				
+3cebd83a-7c16-5d98-8dc3-912b27e205f5	chr17:g.31227547T>A	NF1 W784R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+3e8c7d8f-354f-5e0f-a212-66d57e4c4f79	chr9:g.95468823delG	PTCH1 C727Vfs*19	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+3ea59fed-8e33-50ee-8744-5fc948502cfa	chr2:g.25247620T>G	DNMT3A M329L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.03	benign	0.3
+3f6a291a-54b6-5396-83f9-4c936b2d7f69	chr18:g.44951309G>A	SETBP1 V657M	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.08	benign	0.268
+3f6f0503-8924-5853-b75a-dffd6ee7e776	chr17:g.68524911G>A	PRKAR1A X168_splice	Substitution	Splice Acceptor	1	236	0.42	1	16477	0.01	HIGH				
+3f907d79-71ae-5bb4-bc45-88402097566f	chr1:g.170664378G>C	PRRX1 D54H	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.08	possibly_damaging	0.455
+3f9849fb-47ce-5434-88e8-e66c1aa2d2b5	chr2:g.211713575C>A	ERBB4 G319=	Substitution	Synonymous	1	236	0.42	2	16477	0.01	LOW				
+402d6076-1465-50df-864e-91f1b2dffdaa	chr19:g.6833551G>A	VAV1 R545H	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	tolerated	0.2	possibly_damaging	0.847
+40711a5b-b5e2-5500-985c-c93dc987021e	chr19:g.8949527G>T	MUC16 T9081=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+408b3ce1-41fd-514c-abab-4b133e936551	chr13:g.28049387C>A	FLT3 V345L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	1.0	benign	0.0
+409d3324-20a7-552a-a808-94affd0a1114	chr16:g.15708830delG	MYH11	Deletion	Intron	1	236	0.42	45	16477	0.27	MODIFIER				
+40d57748-5093-52ef-ac2f-08506c5e7665	chrX:g.48263782A>T	SSX1 I111F	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.554
+40e3728a-39be-5210-9ce3-69691f6e4682	chr9:g.93258963G>A	WNK2 T805=	Substitution	Synonymous	1	236	0.42	2	16477	0.01	LOW				
+42a7652b-956f-5de8-aa16-79df2ccaea11	chr7:g.50376663G>T	IKZF1 R97S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.86	benign	0.0
+42f6fd10-8c79-5739-9ff8-40217871a699	chr7:g.152250880C>A	KMT2C E570*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+43331bad-5097-594b-a50e-fdc3dae305a8	chrX:g.40054031C>A	BCOR E1611*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+4363edee-43af-5af5-b092-06213c90afa4	chr3:g.41224626delTGCCACTACCACAGCTCCTTCTC	CTNNB1 A39Efs*3	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+43a71e13-487a-550b-beb6-3ecc1786e238	chr8:g.41932995C>T	KAT6A G1744D	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.727
+44675994-2717-5bbc-a8d5-f7dcfe8ea509	chr9:g.92416937A>G	OMD F208L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.54	benign	0.001
+44691763-861a-594c-a1ca-06a0ba1fa9e3	chr11:g.46299956C>T	CREB3L1 H42Y	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.968
+44859874-1c76-5f41-92ab-3c59bd3a9d1e	chr6:g.44249476A>G	HSP90AB1 T83A	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.03	benign	0.301
+44dd4e92-b5c1-5cbb-bfb1-c098cd283002	chr17:g.7673700C>A	TP53 X307_splice	Substitution	Splice Donor	1	236	0.42	6	16477	0.04	HIGH				
+451f0953-4c82-5634-9f41-320a3f39f2b6	chr2:g.140370819C>T	LRP1B K3633=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+4574c9d6-8828-5fb2-9103-577daf442d33	chr3:g.77565092T>G	ROBO2 S607R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+46aa5ea3-96c0-5fe0-9a7e-e32fb91189fb	chr9:g.8376721C>A	PTPRD K1464N	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+46df23ca-95b9-50b0-93e0-fd19948dc227	chr12:g.11869487T>C	ETV6 I176T	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	benign	0.109
+46fbea24-583d-5615-9991-f9f7e71e57b5	chr7:g.5982823C>T	PMS2 X725_splice	Substitution	Splice Donor	1	236	0.42	2	16477	0.01	HIGH				
+4723c2b9-236c-5f38-8e4d-bd1331c66015	chr2:g.29531927delG	ALK P381Qfs*42	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+4748c531-1547-5704-b848-7c2b09de242e	chr3:g.30672134G>T	TGFBR2 L342F	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.09	benign	0.328
+477e2125-974b-5af0-a876-25596d99ddbf	chr17:g.7673803G>A	TP53 R273C	Substitution	Missense	1	236	0.42	140	16477	0.85	MODERATE	deleterious	0.0	probably_damaging	0.999
+479a5a79-477a-5396-9a1d-0a8ea7e04f31	chr4:g.125448636delA	FAT4 D2544Mfs*13	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+49183852-d0a7-57c0-a158-3133dd2b017a	chr11:g.533874T>A	HRAS Q61L	Substitution	Missense	1	236	0.42	9	16477	0.05	MODERATE	deleterious	0.0	possibly_damaging	0.577
+49351c5c-ce10-501b-91de-fa4dcf5c6b94	chr11:g.120478294C>T	ARHGEF12 T1224I	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated_low_confidence	0.18	benign	0.024
+49c5a81f-49b0-59b4-83ea-f5c019fec350	chr10:g.21682256C>T	MLLT10 N566=	Substitution	Splice Region	1	236	0.42	1	16477	0.01	LOW				
+4a4190fb-1d6b-5ea3-92e2-3cc5865123d0	chr2:g.140501795A>G	LRP1B D2914=	Substitution	Synonymous	1	236	0.42	2	16477	0.01	LOW				
+4a77f7e2-a5c6-5733-b4c4-b78084e54361	chr2:g.211420517T>A	ERBB4 E1020V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.69
+4a92285e-46e9-584f-87b2-dc4075f289e5	chr11:g.92801024A>G	FAT3 N2671D	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.08	possibly_damaging	0.76
+4b0b0536-db98-5aae-9368-673c758cad32	chr3:g.52550578T>A	PBRM1 P1580=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+4bb2c111-9d0f-5c35-b5e0-47fefd34ec4e	chr2:g.79651626G>T	CTNNA2 V24L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.971
+4bcefc5d-f72a-5818-b490-44dad838587c	chr11:g.118505972A>C	KMT2A S3360=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+4c39d6c1-6ff8-5954-940c-d9b8df313697	chr8:g.91991677G>A	RUNX1T1 P377L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.88	benign	0.281
+4cc81e39-fa9e-581c-899d-22d4588e0425	chr19:g.17843127G>A	JAK3 L156F	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.7	possibly_damaging	0.494
+4cee7c0a-9fe4-59cf-95c2-4ca0009b7b89	chrX:g.153542419C>A	ATP2B3 S254*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+4e145555-68fa-55a6-b78e-44a24dd81720	chr2:g.197393036A>G	SF3B1 M1231T	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.17	benign	0.003
+4f6aa4aa-5d1d-56b5-aded-abb316f1ea9a	chr1:g.150839632G>A	ARNT R99W	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+5018e493-0c84-595e-90f5-ac84d95e2d99	chr12:g.122473709C>T	ZCCHC8 G638R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.08	possibly_damaging	0.873
+5023cbab-044a-59ec-947b-2fb5c3d988f4	chr19:g.17835178C>T	JAK3 R651Q	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	deleterious	0.0	benign	0.182
+5075f5af-8282-505f-a41f-71b113589859	chr3:g.41224612G>C	CTNNB1 G34R	Substitution	Missense	1	236	0.42	3	16477	0.02	MODERATE	deleterious	0.0	probably_damaging	0.999
+50c058da-71c1-57c8-88cf-6f2a3211dec0	chr19:g.8908945T>C	MUC16 T12509A	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated_low_confidence	0.13	benign	0.005
+51629ca0-51d2-5b25-b2ee-6144cf2f3527	chr17:g.31223422delAATGAACTTTATGTTACTGCAGCTCACAAATGCTTTTTTACATCTGCAAG	NF1 X574_splice	Deletion	Splice Acceptor	1	236	0.42	1	16477	0.01	HIGH				
+51b5553d-b7ff-57d1-9827-2c7adbb8743a	chr8:g.102277121delT	UBR5 E2121Kfs*28	Deletion	Frameshift	1	236	0.42	70	16477	0.42	HIGH				
+5270e5ab-25b3-5e1b-95df-03c26aed8a80	chr17:g.31326245delC	NF1 S1754Lfs*11	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+52ca81da-ef3c-5fd1-a7d7-e8db33265caf	chr3:g.14165551T>C	XPC Y219C	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.963
+53eb27a7-674d-516a-b783-bbf7bd2d2212	chr19:g.10489786C>T	KEAP1 V465M	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.992
+547e2bbd-2900-5b8c-b018-e1d202751080	chr7:g.2937145C>A	CARD11 E411D	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.01	probably_damaging	0.913
+5532c1a0-26fd-5c41-918a-1ff4c9d30673	chr1:g.157589253C>T	FCRL4 Q86=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+55978437-7fe1-5eca-80d5-c021a9aec593	chr11:g.108267329C>T	ATM S875=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+5642344f-cce4-5a7a-b296-4d5b90b0c287	chr4:g.125449540A>T	FAT4 R2844*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+5652198f-5862-5849-826e-3e3cf17e9da4	chrX:g.53403849G>C	SMC1A R747=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+566c114c-6dcb-5f6b-87de-35baf418fc42	chr12:g.322544G>A	KDM5A L767=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+567a672e-4d7b-5d4c-935f-023661b9ad69	chrX:g.133596505delTCT	GPC3 E525del	Deletion	Inframe Deletion	1	236	0.42	1	16477	0.01	MODERATE				
+56bd2d67-c0fc-56c9-a01d-6cc1870c56ee	chr22:g.27796799C>T	MN1 E1249K	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	possibly_damaging	0.894
+57f931a1-054d-5c8c-867c-27d069a6f14e	chr10:g.68646594A>C	TET1 T1289P	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.01	possibly_damaging	0.795
+580e952e-bfa7-5ce9-a422-e3258b25c0a1	chr3:g.70977936delG	FOXP1 L414*	Deletion	Frameshift	1	236	0.42	8	16477	0.05	HIGH				
+58866ef1-8fd0-5367-8af3-b8febf67ccdd	chr5:g.180609020A>G	FLT4 S1281P	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.07	possibly_damaging	0.728
+5906f0d4-e4c5-51e2-98b9-8e5ccb8915b5	chr8:g.144511526C>T	RECQL4 G1178R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+59628273-e963-5af7-8614-8e202f350267	chr2:g.127292800T>C	ERCC3 K94R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.11	benign	0.036
+59817b2a-d44a-5905-82bc-0f592ef6e3f1	chr11:g.108227691C>T	ATM R23*	Substitution	Stop Gained	1	236	0.42	2	16477	0.01	HIGH				
+59bedac3-2f01-51b4-b4b5-e2780ed41732	chr17:g.17227952G>T	FLCN S62R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.18	benign	0.102
+59d479f2-547d-5711-bd2e-a0b28dcbd067	chr11:g.92859319G>A	FAT3 L3885=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+5a3590d1-be66-52ff-9f0e-f5af1752c2cd	chr2:g.74361592C>T	DCTN1 V1248=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+5b2edca2-e319-549e-b095-9805062296db	chr7:g.138917162delC	KIAA1549 V822Cfs*17	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+5c01f8aa-627b-5a2d-a974-79690522d33d	chr5:g.31526115C>A	DROSHA R273I	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	probably_damaging	0.944
+5c1b84a3-bfaf-5d0d-8485-de2a56726da5	chr3:g.52403548_52403549insA	BAP1 G533Wfs*4	Insertion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+5c27214e-0ffb-56dd-b017-4741eec48698	chr17:g.31206308T>C	NF1 F443=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+5c63b9e2-287c-58b7-96f3-a3ce20dc8598	chr11:g.108253809delTGAAG	ATM X633_splice	Deletion	Splice Acceptor	1	236	0.42	1	16477	0.01	HIGH				
+5dc4ca93-93b1-5b5c-b85d-783c44adf643	chr1:g.43352576_43352577insC	MPL K573Qfs*40	Insertion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+5dd41512-5418-5303-8342-863fc0e4e4fd	chr7:g.27840848C>T	JAZF1 E135=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+5e083c27-2e7a-5f11-a810-64b85692f3b1	chr6:g.167003724T>C	CEP43 G71=	Substitution	Splice Region	1	236	0.42	1	16477	0.01	LOW				
+5ea93dcf-7b19-59b2-9855-88732335c6dd	chr9:g.5055714A>G	JAK2 I328V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.06	benign	0.026
+5eb28e4c-0f6a-52c4-8902-4e067018f649	chr22:g.23285115C>G	BCR P774A	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.09	possibly_damaging	0.506
+5efbdd60-48a7-5e53-88a8-87dfb6856e2b	chr17:g.31340509delCG	NF1 P2310Sfs*16	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+5f179c5c-6874-593a-aa3f-658d9a604ef1	chr8:g.112224871G>C	CSMD3 A3675G	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.08	probably_damaging	0.989
+5f251b8c-7f7d-56f6-a0a2-22e4f2564787	chr8:g.70144799C>T	NCOA2 Q885=	Substitution	Synonymous	1	236	0.42	2	16477	0.01	LOW				
+5f6e742e-20be-5548-be3b-3cccde38ecc1	chr19:g.10499577G>C	KEAP1 L153V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.15	possibly_damaging	0.684
+5fb4d275-cc69-5a8b-b310-a1981c7a1b1d	chr7:g.152146623delAG	KMT2C S4669Cfs*13	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+5fe97180-2ac8-56f5-9406-8a8db7186a27	chr12:g.122328361C>G	CLIP1 S978T	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.27	benign	0.003
+606fca11-3f0d-54ac-a1bf-bce3a29886ed	chr3:g.41224613G>T	CTNNB1 G34V	Substitution	Missense	1	236	0.42	12	16477	0.07	MODERATE	deleterious	0.0	probably_damaging	0.999
+60ac2843-acc4-5420-8bc0-1ffcd5eeb6dc	chr7:g.124863486C>A	POT1 R137L	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+61112ce4-f82d-51d0-83ce-db757624d88d	chr17:g.31334931delA	NF1 R1970Efs*9	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+6114e8a9-42b0-596b-ad32-a2fa0d7fe3fa	chr18:g.44950133G>T	SETBP1 G265C	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.08	benign	0.003
+611e6780-98a8-5e56-a9f0-9b547da30432	chrX:g.71101441delCCTC	FOXO4 S405Vfs*14	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+613113ed-d93e-55d3-939a-f2ee93a36ee6	chr15:g.74043054C>T	PML T592=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+6176055d-3071-5691-b715-1b5a40550bfd	chr19:g.8976663C>T	MUC16 M1492I	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.01	benign	0.003
+6188b26e-ff1e-52aa-baf9-8c4a1e65d594	chrX:g.130021129C>T	BCORL1 R1196*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+619421c2-3642-5920-b927-75e84a6f72f5	chrX:g.119629370C>T	SEPTIN6 G410S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.82	benign	0.041
+62457c6a-2de0-55d9-8da6-2ea6948f9019	chr7:g.55146656G>A	EGFR V159M	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.21	benign	0.007
+625416a8-5b5d-5a06-ba7b-7c086d473dac	chr22:g.35084445T>G	ISX A148=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+62627e7f-64c9-5193-890b-aaddab1b0d54	chr9:g.115030366G>A	TNC A1987V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.39	benign	0.17
+63363117-3762-5c35-8dfd-3a4a8b807552	chr22:g.29043368delCTGATGAACATCGTCAA	ZNRF3 L191Qfs*19	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+634532f4-76f3-5f82-b4e3-c76b027a0a18	chr1:g.114713909G>T	NRAS Q61K	Substitution	Missense	1	236	0.42	140	16477	0.85	MODERATE	deleterious	0.01	possibly_damaging	0.709
+63f0a100-d306-5832-addb-e66cc90058af	chr10:g.43114500T>C	RET C634R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+64e91bd0-2920-5bf9-b198-17f0200d2192	chr2:g.211725183C>A	ERBB4 V212L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.17	probably_damaging	0.973
+65c7f846-06dd-5447-bdd2-798c26acd3bd	chr8:g.68027248G>T	PREX2 K156N	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.05	probably_damaging	0.99
+66329021-ddac-5beb-a9a7-ec449aec01a9	chr5:g.31526869G>A	DROSHA R22*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+664055e0-d6c2-5cf5-be0b-3eb03a274d65	chr13:g.91693556G>T	GPC5 G232V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.03	probably_damaging	0.974
+66757a55-a4c6-5f01-a9d3-ddb871050196	chr22:g.21799085T>C	MAPK1 D179G	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.09	possibly_damaging	0.653
+66a9185a-b4f3-53fb-939d-a5fee65d878a	chr3:g.10149805G>A	VHL R161Q	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.03	probably_damaging	0.997
+66d58fba-791e-597a-a36c-afd0d7a554a9	chr3:g.53804986A>G	CACNA1D Q1883=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+66f71397-c76b-5e0b-8ef5-2606a352d3f5	chr6:g.138868105C>A	ECT2L Q493K	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.07	possibly_damaging	0.607
+670ed7fc-e462-5a8c-a612-19ad11cc446b	chr15:g.90893106G>A	FES L611=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+6710ab81-c50f-5263-b023-cc66b0cbeaa8	chrX:g.48791272G>A	GATA1 A55T	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	tolerated_low_confidence	0.27	benign	0.27
+67a6b393-d568-54cc-a3ac-ed0dc974d1c3	chr2:g.211947462C>A	ERBB4 G130V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+67f569ff-e0a3-521d-9694-2322f84b81c7	chr7:g.2938780C>G	CARD11 E306Q	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.764
+68118473-17ee-5ec8-8fe5-17d842f8edad	chr12:g.45817702G>T	ARID2 D151Y	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.997
+68301553-6b56-586f-897b-9ee24e6d4a1d	chr1:g.150929992G>C	SETDB1 V96L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.12	probably_damaging	0.956
+683a10c7-b694-5f4a-98f8-b8b99e875e48	chr10:g.129766854G>C	MGMT G192R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.957
+683f0987-cb18-5988-8993-3e5854307f03	chr13:g.48379633G>T	RB1 E458*	Substitution	Stop Gained	1	236	0.42	2	16477	0.01	HIGH				
+6972508b-a9fa-5a63-a15f-1d11a4a408c3	chrX:g.154349429C>A	FLNA K2563N	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.08	possibly_damaging	0.87
+697dca0a-70bd-52a2-af7e-107d87376227	chr11:g.64809858delAGAC	MEN1 I85Sfs*33	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+69b7c510-23f8-5f54-ace7-fe3820002544	chr4:g.48170274C>A	TEC C143F	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+69dbd837-bb97-5c79-8c6e-167714675792	chr9:g.8636699C>A	PTPRD E70D	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.01	possibly_damaging	0.52
+6a076c3b-dc01-5cfc-8bf9-0e8fadc662ba	chr14:g.102085380T>G	HSP90AA1 Q316P	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	probably_damaging	0.997
+6a57e91c-0d44-5dab-b1a1-610352fef6ba	chrX:g.15803689C>G	ZRSR2 Q69E	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.17	benign	0.039
+6a6332a4-3f4b-5569-b663-f0d5fae5b8fa	chr2:g.24728451C>T	NCOA1 A954V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+6a7be2d8-1434-5445-9c9a-b55594c80602	chr12:g.47989258A>T	COL2A1 G364=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+6afabe4d-e9e7-5647-974f-20c0555d07a4	chr10:g.86890154G>C	BMPR1A D54H	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.02	possibly_damaging	0.682
+6b0485b6-e8cd-5436-92d1-a003b03a2aae	chr3:g.10146602C>G	VHL D143E	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.11	benign	0.055
+6b809042-1af5-53e2-afea-8b1e0e807fe0	chr10:g.26751735G>A	ABI1 P405L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.3	benign	0.088
+6b8ee66b-aace-59f0-99b6-355a6955fa16	chr11:g.92799803C>A	FAT3 L2264I	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	deleterious	0.02	probably_damaging	0.974
+6b8ff503-7e7a-5d99-a9bf-7f51733788f5	chrX:g.37009956G>C	FAM47C E516Q	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.04	possibly_damaging	0.702
+6b94592e-fdc9-528d-9ccb-a20496fb12b6	chrX:g.119640752C>G	SEPTIN6 E243Q	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.05	probably_damaging	0.999
+6c299617-4935-5db9-b56c-afb7694ad252	chr2:g.99551496C>T	AFF3 R1245Q	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+6c90ef02-c9ea-5ba6-be7d-f141d938a366	chr19:g.8951863C>A	MUC16 G8303C	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	probably_damaging	0.923
+6d0c89a8-546d-5c44-9e68-af1dd0d4bf2d	chr5:g.69374653A>T	RAD17 K109I	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.994
+6d11c8bd-bbf6-589c-9941-255f375a03d2	chr19:g.15244728G>A	BRD4 P731=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+6d1ed0d3-549d-59a4-b844-1c6182c7b9da	chrX:g.153542412C>T	ATP2B3 R252C	Substitution	Missense	1	236	0.42	3	16477	0.02	MODERATE	deleterious	0.02	benign	0.239
+6d82d4ea-84e5-5fbe-a881-356995f750d7	chr2:g.47808224C>T	FBXO11 G893E	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.996
+6dad0ab8-0ea0-55e0-a6ce-451483777d45	chr22:g.28725018T>A	CHEK2 N227I	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.13	benign	0.196
+6dc083ad-b0da-5bf6-a225-daadfb3175f1	chr22:g.28734439G>A	CHEK2 R95*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+6dced9cd-4b6d-54d7-975e-e8f999017378	chr19:g.21537860A>C	ZNF429 N603H	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.18	possibly_damaging	0.695
+6eb73cf9-69d0-53b3-ac9f-21645057c50e	chr4:g.125452103A>G	FAT4 N3698S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.78	benign	0.0
+6eba753e-77b8-5065-ae27-e848460f6e36	chr15:g.90607383A>G	CRTC3 N161S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.43	possibly_damaging	0.895
+6ebd71a4-cd24-5e0a-b0e9-c6b51fd2950c	chr17:g.68524895delTTTTTACCCTCTTTTAGGTGATGAAGGG	PRKAR1A X168_splice	Deletion	Splice Acceptor	1	236	0.42	1	16477	0.01	HIGH				
+6ed32b11-aa45-59e9-865a-e2a1da285477	chr20:g.58855144C>T	GNAS Q627*	Substitution	Stop Gained	1	236	0.42	2	16477	0.01	HIGH				
+6f3640c3-04dc-5f74-ad1b-4dccaf2c656c	chr8:g.113098845C>A	CSMD3 G276=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+6fb2b303-1ca9-5b01-b7fb-e6e3b5341e61	chr19:g.8936789G>A	MUC16 S11389L	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	tolerated_low_confidence	0.08	probably_damaging	0.986
+703f76d7-e7b4-5bb6-9d91-7b686d9dc5f9	chr20:g.41084500_41084501insA	TOP1 V185Sfs*3	Insertion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+70ed15bb-f090-517d-ad60-44858fd26769	chr5:g.11082754G>C	CTNND2 C910W	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.01	probably_damaging	0.998
+711131bd-0648-5728-a8d9-9d45f3b324c2	chr7:g.140753354T>C	BRAF D634G	Substitution	Missense	1	236	0.42	11	16477	0.07	MODERATE	deleterious	0.0	benign	0.369
+713e1ff7-536b-58aa-8a15-26747e281fa7	chr19:g.8889524G>C	MUC16 F13519L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated_low_confidence	0.1	probably_damaging	0.931
+7156d000-e163-5296-b50a-c41279832707	chr19:g.8948894C>G	MUC16 E9292D	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated_low_confidence	0.21	benign	0.028
+71a0af0a-ddc2-57de-9ac9-e51b95f6fe0e	chr17:g.68522900G>T	PRKAR1A E108*	Substitution	Stop Gained	1	236	0.42	2	16477	0.01	HIGH				
+71b13c55-6fb5-5ae0-b8c8-4608a1014033	chr14:g.67111914T>C	GPHN D502=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+71cf9443-272f-5b39-8fee-fdea0a1ccb75	chr11:g.92891020A>T	FAT3 E4527D	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.02	benign	0.0
+72688bde-e26e-5d8d-99ee-d1bef1f8a706	chr1:g.149029787G>T	PDE4DIP G2408*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+72987e0a-d749-588a-afaa-f442eda682b3	chr7:g.74047691C>G	ELN P220=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+72c9ed49-adbe-5f97-934f-29138744dbd3	chr16:g.72959618G>A	ZFHX3 G176=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+73504376-f07f-5433-94df-098bb83577ac	chr13:g.20066896A>G	ZMYM2 S1060G	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.13	benign	0.202
+737e2f81-8d05-5f2e-99aa-ee2fb570628f	chr4:g.186618091C>A	FAT1 R2834M	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.873
+745260e7-3399-5457-a512-a3476e22232a	chr1:g.3411406C>T	PRDM16 Y403=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+74f785be-d5e4-5002-ac72-abf2babc66b8	chr17:g.31233208C>T	NF1 Q1235*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+75c394eb-a33e-5358-ae48-260f87e09a17	chr5:g.177260120C>T	NSD1 R1700*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+762bc64a-0bd0-5158-af87-dec68a390c00	chr14:g.92811595G>A	GOLGA5 Q387=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+763f3476-d16d-58d0-ad56-3faaec111768	chr4:g.125487445C>G	FAT4 T4308S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.38	benign	0.007
+7661fe00-d7c9-513a-858e-9b62a46e9857	chr8:g.86905095A>G	CNBD1 N58S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	1.0	benign	0.0
+771b6d00-a5d8-5af6-8544-241c8d0d4504	chr19:g.17843459T>C	JAK3 K114R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.76	benign	0.001
+77f17fcb-2425-5031-a755-00b4e5a2247a	chrX:g.77664683_77664684insT	ATRX R1302Kfs*7	Insertion	Frameshift	1	236	0.42	3	16477	0.02	HIGH				
+787385db-052b-5927-8de9-5054de1244f9	chr10:g.43113586G>T	RET G597V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.01	probably_damaging	1.0
+78e91b7c-d820-5199-866f-25cd4570c9a9	chr11:g.118473788G>C	KMT2A D877H	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	possibly_damaging	0.894
+79a89ca9-265f-5c09-86e6-6f8d8d8ecb94	chr4:g.184632322C>T	CASP3 V85I	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.11	benign	0.327
+79b396ef-ba48-5352-8fd4-9347e1fc4cd3	chr17:g.31227290delAGGTATGCCC	NF1 X775_splice	Deletion	Splice Donor	1	236	0.42	1	16477	0.01	HIGH				
+79ef6b9a-021a-5ad2-851d-e886bb371060	chr7:g.27163718C>G	HOXA9 R235P	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+7a50204a-f727-59ae-9566-364cf13767c3	chr7:g.102178509T>C	CUX1 V301A	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	1.0	benign	0.001
+7a756e82-0c99-5789-863b-fcc576948474	chr22:g.41176248delTCT	EP300 F1596del	Deletion	Inframe Deletion	1	236	0.42	1	16477	0.01	MODERATE				
+7b2768bd-d54f-55e0-8c36-0d826d835679	chr10:g.43111217T>C	RET V425A	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.11	possibly_damaging	0.497
+7b808741-90e2-5244-affb-661965281815	chrX:g.53413097A>G	SMC1A A219=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+7b999961-5f4b-5149-89f2-ad9c84468657	chr9:g.8518129G>T	PTPRD P421Q	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+7bfd1339-807a-526b-bff1-fa30b8ef35df	chr18:g.44952029T>A	SETBP1 C897S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.04	probably_damaging	0.973
+7cc27ec8-9d7b-5606-8c80-e029496d0bde	chr19:g.53577624A>G	ZNF331 Y355C	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.996
+7d7314fc-7724-5d27-8390-ad808e576c26	chr6:g.117387924G>A	ROS1 H624Y	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.32	benign	0.031
+7d9a4696-12ec-5677-885d-fd0d0c4a7ab5	chr10:g.68667096C>T	TET1 R1505C	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+7dd6f8a2-73ea-5812-acc9-a0677527bdee	chr19:g.6833219G>A	VAV1 G515E	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.27	benign	0.066
+7e6d6cfc-9a24-50e3-8adc-36080f5208cf	chr12:g.45852324A>C	ARID2 I1401L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated_low_confidence	0.48	benign	0.0
+7eaf0ad0-8aee-5183-8600-abc0b79b29a3	chr12:g.49027846T>C	KMT2D Y4867C	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.25	benign	0.021
+7eb21c2c-e1c3-58f6-81f6-82e255935dc5	chr11:g.102324516A>G	BIRC3 I3V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated_low_confidence	0.29	benign	0.012
+7ec7abd5-b11b-54e4-beef-e300fac1188d	chr4:g.125451065A>T	FAT4 K3352M	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.07	possibly_damaging	0.473
+7f4fe2b7-a91f-5211-91bc-35f9189d9017	chr8:g.138146034G>T	FAM135B L1155=	Substitution	Synonymous	1	236	0.42	2	16477	0.01	LOW				
+7f5119b8-d7bf-5c9f-bf11-c67a171c80ec	chr12:g.49040709delG	KMT2D P2354Lfs*30	Deletion	Frameshift	1	236	0.42	29	16477	0.18	HIGH				
+8013ce4e-6bae-5ab7-9360-7ffea7ff4cb9	chr7:g.129211679C>T	SMO S615=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+801d9b46-cc0f-5c4e-8999-7266038c3a24	chr11:g.64805740delGATCT	MEN1 E401Vfs*6	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+80345296-c2ac-507c-8db0-59750fc7af1c	chr5:g.177096688G>A	FGFR4 S700=	Substitution	Synonymous	1	236	0.42	2	16477	0.01	LOW				
+8050b4a2-fe6d-5f35-b745-2e3c0e412d5b	chr3:g.41224646C>T	CTNNB1 S45F	Substitution	Missense	1	236	0.42	18	16477	0.11	MODERATE	deleterious	0.0	probably_damaging	0.994
+80ba59f0-cad3-56ad-a684-c0651a434a89	chr17:g.38725567A>G	MLLT6 K1084R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.04	benign	0.003
+80bc0c81-7c8c-545b-aff9-f8f6d0ecd6ea	chr5:g.177294446A>T	NSD1 R2360W	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	possibly_damaging	0.787
+8120a451-2da5-5ee8-a442-35b38eb263a7	chr14:g.34762146C>T	BAZ1A R1285H	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated_low_confidence	0.1	possibly_damaging	0.474
+819752e5-033a-509b-ad1c-c6019c416dfa	chr1:g.150842450delGCTCT	ARNT Q81Lfs*4	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+82259a91-b9c8-5d88-905d-ceb6d81a4f36	chr3:g.13571458T>C	FBLN2 V368A	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.5	benign	0.031
+8238de0e-f732-52dd-bec2-25405f91849a	chr6:g.44253820T>G	HSP90AB1	Substitution	3 Prime Utr	1	236	0.42	1	16477	0.01	MODIFIER				
+82fb26ba-2734-51ad-a223-779411549b68	chr9:g.8485824G>T	PTPRD T998K	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	benign	0.33
+831e2274-fd64-5375-8c12-3672d602e333	chrX:g.47180484C>T	RBM10 A474V	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+8320399e-366c-564f-b049-a9cf26813a2a	chr6:g.163563689G>C	QKI E302Q	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	tolerated	0.05	benign	0.376
+837047fb-ca94-5903-96f7-fd5394e8c402	chr19:g.8957463C>A	MUC16 G6436V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated_low_confidence	0.52	benign	0.0
+8392161e-4719-52f1-ae1b-7f86bd4bd14d	chr1:g.193141924C>A	CDC73 T196N	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.07	possibly_damaging	0.788
+83a9fcd4-5d88-52fc-be5c-697c568a5c9e	chr7:g.86765329G>A	GRM3 E62K	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	1.0	benign	0.061
+83f73143-12cb-5ccc-bdff-329484ef9b13	chr12:g.132673267G>A	POLE T457M	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.786
+84469aad-8630-5150-9ab2-918262018a58	chr4:g.186618090C>A	FAT1 R2834S	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	deleterious	0.04	benign	0.272
+84e7a2ff-05f0-56e5-b6ce-12544c12b0eb	chr10:g.31521310A>C	ZEB1 N660H	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.21	benign	0.087
+8540ed6a-8361-56f7-b84f-938ec83a5a34	chr17:g.80360105A>T	RNF213 N3749I	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.18	benign	0.346
+8556fdce-3cad-5e67-9862-56ea93912f01	chr4:g.55107744C>T	KDR E469K	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	tolerated	0.94	benign	0.0
+8557d1df-696d-5ddd-93a6-4947ab075d3f	chr3:g.77098243C>T	ROBO2 H97=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+86660be8-4f56-5411-abc3-b33049233d0c	chr3:g.186048778G>A	ETV5 P465L	Substitution	Missense	1	236	0.42	3	16477	0.02	MODERATE	deleterious	0.0	possibly_damaging	0.86
+86e784c4-f547-5469-9cae-9441c882f2d8	chr1:g.186346163C>T	TPR R1023K	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.37	benign	0.003
+87b8b634-c025-58e2-80cd-ca3e1986b312	chr4:g.152328321A>G	FBXW7 I435=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+87e9270a-bc1c-5bfe-ac11-9974165182c6	chr17:g.38717503C>T	MLLT6 L575F	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.01	probably_damaging	0.997
+88f8f743-77b7-56e2-bbfb-63d44605c8c1	chr10:g.112951589C>G	TCF7L2 L121=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+8932d556-aa22-5f8c-b19f-af234ff056a8	chr22:g.31344487C>T	PATZ1 R372=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+8988cc85-31fe-55fb-bd98-e3a3a0b8b7df	chr7:g.13931551delGG	ETV1 P265Lfs*4	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+8994fc0b-cefa-5e05-beef-a93709a2f4f4	chrX:g.53201961T>C	KDM5C N587D	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.1	benign	0.176
+8a304158-b8ab-5bbf-9420-a24a06f83092	chr2:g.108763948C>T	RANBP2 P1137S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.29	benign	0.009
+8bd04844-be56-5f8c-b1a2-b7586578c9c4	chr7:g.55156656G>A	EGFR R377K	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	1.0	benign	0.0
+8c225908-b29f-5b6f-bba6-e66359963c67	chr20:g.51791892G>T	SALL4 S197R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.03	possibly_damaging	0.615
+8ce0c86d-433a-5905-bbb1-fa6400702e9d	chr13:g.48360058C>T	RB1 Q217*	Substitution	Stop Gained	1	236	0.42	3	16477	0.02	HIGH				
+8d0e346f-ce58-514b-ad7a-c653e49712a0	chr8:g.112503813G>T	CSMD3 T1687N	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.21	probably_damaging	0.985
+8d8c078d-329d-5288-bcdd-29118bc9885a	chr5:g.55963470T>C	IL6ST N232S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.66	benign	0.001
+8d8fd378-a1bc-5996-b4b6-45f9e116251e	chr11:g.64805141G>A	MEN1 R457*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+8dcd2ee2-47fa-5dcc-8015-663e78a4e2e8	chrX:g.77683857T>A	ATRX K467*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+8dd43fc9-64df-57f2-a2d2-256f51edffd3	chr20:g.42084747G>A	PTPRT V1379=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+8e270d91-4cad-53ee-a7a8-649efbc97d1a	chr5:g.177211619C>T	NSD1 R1074C	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated_low_confidence	0.19	benign	0.0
+8e5c17cb-7bb6-5252-80b9-9fe169d9aa73	chrX:g.108733727G>A	IRS4 P873L	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	tolerated	0.07	benign	0.0
+8eb16a6f-1360-5cff-b7c1-a87023db538e	chr20:g.40687896G>C	MAFB P319A	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.18	benign	0.235
+8edc7f21-fc87-5106-a681-54f0131d67bf	chr5:g.112839898G>C	APC R1435T	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.02	probably_damaging	0.991
+8f713c4e-9341-5f32-9e85-3a17b88c7f02	chrX:g.154371186G>A	FLNA G20=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+8fa489f2-3bd5-54be-a63b-683239426c07	chr3:g.77558062C>A	ROBO2 S450R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.87	possibly_damaging	0.596
+8fdd4dc2-ca62-596a-91ab-e12d961e2ab5	chr19:g.6270656G>C	MLLT1 P39R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.968
+906cd18c-a87b-579c-a9b1-d59ccb24a2fb	chr11:g.112086909T>A	SDHD M1?	Substitution	Start Lost	1	236	0.42	1	16477	0.01	HIGH	deleterious	0.0	probably_damaging	0.986
+906f7042-af36-52c0-a71a-91767dbd6c5a	chr16:g.13947870G>A	ERCC4 L758=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+907f03f2-1a7c-558b-bd6b-bb284b30a757	chr2:g.189854642G>C	PMS1 C457S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.52	benign	0.003
+91176d76-e920-50c6-8d83-47f7b72e9f73	chr9:g.115090986G>T	TNC V11=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+91bad72f-229e-5ca7-9f42-c05f4f665e53	chr12:g.124420003T>C	NCOR2 Y479C	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+91cc44f8-d2f0-5816-8779-b30b92ac40c6	chr19:g.34196690C>T	LSM14A F114=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+91eaf696-e792-511c-a0b1-69f52bc4a810	chr7:g.101916120A>G	CUX1 E23=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+92338031-dd3b-5a1f-b30f-a4f18881c0b1	chr7:g.55142393delGAAATTACCTATGTGCAGAGGAATTAT	EGFR E66_Y74del	Deletion	Inframe Deletion	1	236	0.42	1	16477	0.01	MODERATE				
+92401580-4003-5f8f-8b0f-20c9ebc0d55c	chr12:g.49051769T>G	KMT2D P638=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+926c050a-904e-5666-ae17-cc9006f14fa7	chr8:g.102285712G>T	UBR5 A1762D	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.03	probably_damaging	0.987
+92b75ae1-8d4d-52c2-8658-9c981eef0e57	chr3:g.179234297A>G	PIK3CA H1047R	Substitution	Missense	1	236	0.42	288	16477	1.75	MODERATE	tolerated	0.11	benign	0.085
+939d5dc0-7252-5d94-87b2-9c1fbe31fcd5	chr1:g.7661781G>C	CAMTA1 V240=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+93ac3eaf-b50b-506c-b5ff-1c46472a73fa	chr8:g.117804751T>C	EXT1 K676E	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.992
+93e7e67b-b6af-5da9-badf-cd617cf107fb	chr8:g.79765368G>A	HEY1 T249=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+948e9a90-5a5a-5a7b-920d-ec18bcb41a14	chr19:g.8946495T>C	MUC16 D10092G	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated_low_confidence	0.15	benign	0.031
+94f7ed32-d0d7-5832-90ce-df8a94b12dde	chr13:g.39378466C>T	LHFPL6 R149Q	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.59	benign	0.028
+95eb2db7-6da9-551b-9ec8-5794414b1524	chr1:g.47280813C>T	STIL E549K	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	tolerated	0.2	benign	0.001
+95f86a5b-7ca4-50a0-ae51-8de593c9669a	chr4:g.1904250G>A	NSD2 G211E	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	1.0	benign	0.009
+963a781a-3da7-5135-87b1-931f0ec89ad8	chr15:g.88135103G>T	NTRK3 P401Q	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.55	benign	0.132
+96bd4ce5-6e00-5a8f-af2f-7e322738814f	chr7:g.152167367G>A	KMT2C R3177C	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.995
+9708d0d4-45e5-52fb-af51-2dc3e76e9de6	chr1:g.149031962C>A	PDE4DIP L2476M	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.03	possibly_damaging	0.823
+972efa98-696d-5345-8454-858af48c1008	chr3:g.32954356C>T	CCR4 R312C	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.926
+9773be26-72f9-514b-8ff1-c01dbf96904e	chr17:g.7670694C>A	TP53 E339*	Substitution	Stop Gained	1	236	0.42	10	16477	0.06	HIGH				
+97df1e91-7d02-5ebf-b50d-b65b320bf60e	chr17:g.59677102G>A	CLTC V908I	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.14	benign	0.049
+98c6d6c0-7319-58c2-8c2f-de4dc2eaf293	chr8:g.68157405G>T	PREX2 E1439*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+98ea2355-bc87-5417-bf60-edf04eb164bf	chr1:g.32275415G>T	LCK E125*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+992cc93a-de23-5fe9-8e3d-07e9af4df36a	chrX:g.77682339delGGTC	ATRX D972Rfs*30	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+99ce9242-b5f7-5684-b921-640b28acf3cb	chr17:g.7670705delC	TP53 R335Lfs*10	Deletion	Frameshift	1	236	0.42	2	16477	0.01	HIGH				
+99dbcd87-326e-5efe-ae36-c9540026e9ef	chr11:g.3702532T>C	NUP98 E1165G	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.12	benign	0.003
+99eff3dc-42ac-586a-b0f4-6158743df1dc	chrX:g.77620405G>T	ATRX N1754K	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+9a0f0da1-edf3-5867-8398-e3f88160624b	chr10:g.43126628C>T	RET D1031=	Substitution	Synonymous	1	236	0.42	2	16477	0.01	LOW				
+9b10e15c-5875-5c35-b131-bd0c404b1aee	chr8:g.102271222G>A	UBR5 R2333*	Substitution	Stop Gained	1	236	0.42	3	16477	0.02	HIGH				
+9b52b682-cbb4-5f14-9dc4-71d3608e2faf	chr5:g.180621668G>T	FLT4 R632S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.28	benign	0.176
+9b6b06e5-4368-594e-8d85-d2684acac0d1	chr10:g.121564511T>C	FGFR2 N149D	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.57	benign	0.047
+9c1e09bd-2a33-5f09-80c5-60b60c3e9ce2	chr8:g.113098767T>A	CSMD3 P302=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+9c46de66-c70d-51b8-851d-383056e7d535	chr8:g.92011035G>A	RUNX1T1 F234=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+9dbfdb95-af76-559d-856f-caeab3126d61	chr8:g.32763239A>T	NRG1	Substitution	Intron	1	236	0.42	1	16477	0.01	MODIFIER				
+9dcce274-2643-54e5-a96e-10e39af7f9e2	chr5:g.56893666C>T	MAP3K1 R1509C	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	probably_damaging	0.993
+9df77b75-8db5-51ee-a1b6-4d2ce10101a1	chr3:g.30672025A>G	TGFBR2 Y306C	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.21	benign	0.081
+9dfbcd4a-e45e-5a00-a3c1-c625096e89a6	chr4:g.186611514T>C	FAT1 D3244G	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.02	probably_damaging	0.999
+9e211d2b-2439-5c42-84ec-377f0682b6fa	chr19:g.8935058G>C	MUC16 T11966S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated_low_confidence	0.1	possibly_damaging	0.849
+9e5bacf8-c357-59ca-b801-67465001bf9d	chr5:g.236468G>A	SDHA G434D	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	probably_damaging	0.985
+9e63d012-6c9a-5544-90f9-64a68a6b0900	chr1:g.26731425C>T	ARID1A Q542*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+9eb1f087-5d52-5483-bb3f-662430c43c20	chr20:g.41166384G>A	PLCG1 E664K	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.04	possibly_damaging	0.892
+9f419657-80b5-55b6-9ce5-2259ab59771e	chr20:g.42084832T>G	PTPRT Y1351S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.03	possibly_damaging	0.693
+9f7845f3-841f-578e-9ed9-32d4de88bde7	chr5:g.10992622C>T	CTNND2 R1047Q	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	deleterious	0.05	possibly_damaging	0.543
+9fc96575-f1b2-5a8b-be1e-a71261cfe8ba	chr11:g.72007411G>A	NUMA1 D1747=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+a05a19d1-e77a-5851-b8d2-76845a8acf33	chr9:g.125153643G>A	PPP6C H224Y	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.02	benign	0.007
+a06e5cf6-4a47-558c-95db-6692c2ead976	chr1:g.17655882delG	ARHGEF10L G830Afs*15	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+a15e5e83-01dd-5a21-9fce-2a601addf399	chr19:g.8938478G>A	MUC16 T10826M	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	possibly_damaging	0.578
+a1c74c8e-dac3-5785-8607-a81f989878af	chr6:g.117344167T>C	ROS1 T1473A	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.53	benign	0.039
+a229a569-f016-5344-aa04-9a4380887c5e	chrX:g.77683830G>A	ATRX Q476*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+a278c909-6dba-5738-b143-e2c6eabc7990	chr2:g.29275112G>T	ALK I676=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+a2c577e9-fe4e-58fc-9206-be08a5b8d075	chr19:g.8947649G>T	MUC16 S9707R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.03	possibly_damaging	0.814
+a2efde03-cee5-5703-8c53-52847c25e66e	chr19:g.10986337C>T	SMARCA4 G168=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+a31a8a4d-a658-5d54-9d83-414b33432c3b	chr19:g.8945785G>A	MUC16 P10329S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated_low_confidence	0.67	benign	0.005
+a3a54dd7-ddfc-59e7-9c03-e3843ed390c4	chr12:g.68816848C>T	MDM2 R96*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+a3c03d87-bd53-529d-a6c0-faf35e07ff15	chr10:g.31502430C>T	ZEB1 D135=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+a4d001aa-f3fd-5692-8fe2-565a174e4907	chrX:g.130039182G>T	BCORL1 W1506C	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+a57dcc23-4ccc-5029-b20e-5b3935f0fab1	chr12:g.49043922C>T	KMT2D Q1755=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+a5b0586c-aa88-5ba3-be1f-edad2fd913a2	chr1:g.2303896C>T	SKI P423L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.11	possibly_damaging	0.869
+a5b407e7-e412-5e4e-9821-891610040482	chr19:g.42291630T>A	CIC V1833E	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	probably_damaging	0.994
+a5c363ef-c6c8-5d35-8eeb-caef260e6a05	chr8:g.41708866G>A	ANK1 T670M	Substitution	Missense	1	236	0.42	4	16477	0.02	MODERATE	deleterious	0.02	probably_damaging	1.0
+a6f339fb-f20f-562c-8bf4-4da8ab2b5744	chr5:g.158713034G>A	EBF1 G435=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+a71e0a66-3ab5-5fb8-b821-e6474d898753	chr9:g.121125726A>G	CNTRL A605=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+a7b4ba1c-4ea6-5ae4-8690-87737cbfb9c1	chr2:g.211725164T>C	ERBB4 D218G	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.15	probably_damaging	0.999
+a7ecc852-e370-5978-8913-5bb658ef12fa	chr3:g.37042272G>T	MLH1 E558*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+a80b5860-6e08-57ef-b3b8-be44c6f9c914	chr1:g.226064454G>C	H3-3A G35R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.02	possibly_damaging	0.773
+a89500da-ce42-53f8-9073-ae25de9ded58	chr17:g.7670693_7670694insCGAAG	TP53 E339Afs*8	Insertion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+a8bedcfd-5688-5bf2-baca-bfea448566e9	chr3:g.52404521G>A	BAP1 Y394=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+a8bfc835-805b-5c5f-a956-b070a1c986cb	chrX:g.37010036C>A	FAM47C S542R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated_low_confidence	0.58	benign	0.0
+a98a718e-36d4-55eb-bbc3-feaa55fe61b7	chr1:g.36469722delG	CSF3R S469Afs*22	Deletion	Frameshift	1	236	0.42	22	16477	0.13	HIGH				
+aa50b1ac-cac0-5504-af04-e9a931978198	chr17:g.8150046C>G	PER1 E152Q	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.02	benign	0.175
+aa69ca39-3068-5607-8186-e2845ea1599d	chr7:g.129203402G>A	SMO R117H	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.01	probably_damaging	0.997
+aa721cb1-899e-5bd0-882e-ebb6300ff5a0	chr3:g.32954153delTCTTTGCCGTGGTGG	CCR4 F245_V249del	Deletion	Inframe Deletion	1	236	0.42	1	16477	0.01	MODERATE				
+ab3e2729-8f22-54e3-9e7f-a6553c7b93dc	chr13:g.32394721T>C	BRCA2 C3097R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.05	possibly_damaging	0.821
+ab92125d-20e2-52af-91de-ca785e919a08	chr10:g.50814013G>T	A1CF G405=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+ace7de94-b6c6-59fd-bd91-0b820939fd2e	chr2:g.197416857C>A	SF3B1 V184F	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.05	benign	0.15
+adb453f5-0438-5e10-a814-e1750acbe2e6	chr12:g.56719779delAG	NACA L584Ffs*3	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+ae446fe0-5c21-5c4a-9a07-a00393839747	chr17:g.31335029C>T	NF1 Q2002*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+ae6ae978-8198-55db-ba29-09fbfc72faad	chr19:g.8952474G>C	MUC16 S8099C	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	probably_damaging	0.957
+ae8413f5-0478-5550-9f82-aef1a58d7fc3	chrX:g.153550073G>A	ATP2B3 R537H	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.01	benign	0.19
+aebac63b-b86f-5783-beab-ec454daa6d73	chr2:g.140487623G>A	LRP1B D3079=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+aefd0d64-002a-58f1-bcfb-f9c329141d78	chr17:g.7675993C>A	TP53 X125_splice	Substitution	Splice Donor	1	236	0.42	9	16477	0.05	HIGH				
+afb3c5c9-5cfc-57b8-bc72-1883fc47a594	chr22:g.23295044G>A	BCR E967=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+afd104c4-61a0-5aac-b016-a2e50c85c5fa	chr3:g.89429123G>A	EPHA3 V698I	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	tolerated	0.88	probably_damaging	0.972
+b06a141d-7d85-5859-8f73-8c124991782c	chr3:g.37000956delAAG	MLH1 E71del	Deletion	Inframe Deletion	1	236	0.42	1	16477	0.01	MODERATE				
+b087fb5b-871d-54f9-8a4b-5085f7207c82	chr11:g.128807183C>A	FLI1 P242H	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	benign	0.001
+b28573ed-db01-5565-8cd2-08e342fc88e1	chr3:g.77617631G>T	ROBO2 A1138S	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	tolerated	0.13	benign	0.046
+b290fb21-1b23-5e6a-b4e5-6cf78f37957e	chr1:g.198742338C>A	PTPRC R890=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+b2ffad73-122e-5da4-96c8-985c3b23b7a1	chr10:g.86923440T>A	BMPR1A D469E	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.48	benign	0.205
+b3154821-2f02-5e02-a75c-76172469e14c	chr20:g.58910020T>C	GNAS A946=	Substitution	Synonymous	1	236	0.42	2	16477	0.01	LOW				
+b3460151-a85e-5994-8cb4-09812f115970	chr19:g.54114480A>G	TFPT Y82H	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.05	probably_damaging	0.93
+b3515f08-03a2-5b93-bd66-a13530e42068	chr7:g.57121132G>C	ZNF479 Q95E	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.14	probably_damaging	0.93
+b38c783f-1a7b-50c2-b7e2-78daf0fd561c	chr18:g.53459237G>C	DCC R1133P	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.993
+b3bc2a71-693d-5d60-bc00-c64139b8cd52	chr11:g.111358789G>A	POU2AF1 A49V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.09	benign	0.355
+b4503c09-14ee-57e1-ba5c-d17b3a3a5879	chr9:g.132905673T>A	TSC1 T635=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+b57ddfbf-b3c2-5b2d-8862-9dae5c30bb8c	chr1:g.149018586C>G	PDE4DIP Q2035E	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.76
+b582d43f-c497-5bb6-ae71-57c1f60d7b49	chr20:g.41165039G>A	PLCG1 V442M	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.02	possibly_damaging	0.904
+b5a93157-3824-5537-9b73-9d8b719373b5	chr17:g.40352011delGTGCGCAAAGCGCACCAGGAAACCT	RARA V207Sfs*71	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+b665fdac-25f8-5bc6-8f46-c99ecb30e0de	chr17:g.50199812T>C	COL1A1 N80S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.05	benign	0.015
+b66c2c21-0f15-5624-83b5-38e40387f2e3	chr19:g.50415522C>T	POLD1 I909=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+b788a6c3-2c99-5c31-9366-81984f5f3a5f	chr5:g.132937143C>T	AFF4 R16K	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.982
+b844c2a7-99fd-5f05-a48b-6f3a835c9e41	chr14:g.92003939T>C	TRIP11 Q1346R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.2	benign	0.005
+b94ce29c-6644-5bf3-9db0-d846ba23e697	chr2:g.24707049A>G	NCOA1 N527D	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.24	benign	0.006
+b97982fa-c398-5237-8f69-e6b785951946	chr17:g.7673796C>G	TP53 C275S	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.983
+b9b6553d-ca51-5abf-a4db-a8636eedba05	chr13:g.91693756T>C	GPC5 L299=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+b9dab876-8549-5cd0-8726-2d47cf40c2f8	chr11:g.22624870A>G	FANCF L314P	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.997
+b9f56d20-716b-5494-96f9-6dabb23162c2	chr7:g.99012103C>T	TRRAP D3790=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+bb51154e-bc01-551b-a6ee-38d3dd6cfc0c	chr15:g.90641159G>A	CRTC3 P537=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+bb766c2e-b39b-560a-a1c5-0d1ffa686d69	chr21:g.33027151G>A	OLIG2 D97N	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.26	possibly_damaging	0.626
+bc075f0c-1197-5c68-8079-5a02a5ba5e03	chr3:g.10146546_10146547insACG	VHL D126du	Insertion	Inframe Insertion	1	236	0.42	1	16477	0.01	MODERATE				
+bcfa42c0-6d17-54ed-8234-d749c37050dc	chr3:g.53810106G>C	CACNA1D L2020=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+bdb90274-4929-554e-a8e1-aea005cfd444	chr12:g.49024889A>C	KMT2D L5281R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+be0530df-6529-5382-a397-a20de289310d	chr2:g.186656368G>A	ITGAV L562=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+bfaffac6-d87a-5a8b-94cf-4e6af6279ac2	chr7:g.98984247G>C	TRRAP R3059=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+c056ec5d-bd87-552f-996b-e9cc541e781c	chr12:g.50814047T>C	ATF1 S122=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+c064ece7-2d01-5fb1-a1e0-7dd016a8c759	chr12:g.65828009C>T	HMGA2 T40=	Substitution	Synonymous	1	236	0.42	3	16477	0.02	LOW				
+c09cc4e8-887e-55b2-9b02-2aa08ca5af3f	chr17:g.31229233_31229234insT	NF1 K874*	Insertion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+c0cb6b6f-dbaa-537e-920f-8b223f99573c	chr5:g.256383A>C	SDHA D653A	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	benign	0.036
+c0e010f1-aa53-5219-8d24-34fd6974d320	chr13:g.32336552_32336553insTCTTCTTCT	BRCA2 V733_L734insFFF	Insertion	Inframe Insertion	1	236	0.42	1	16477	0.01	MODERATE				
+c12e0267-4084-569c-819a-6ff93304232f	chr8:g.38304692C>T	NSD3 G836R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+c168eb0b-1eb8-514a-ba08-434302621168	chr20:g.42352183C>A	PTPRT G555C	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.978
+c1abd58a-641f-5029-8687-fb95457f7264	chr4:g.125317576G>T	FAT4 A389S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.26	probably_damaging	0.997
+c3ecfcc9-9d65-5301-8ffb-2a5e516058ee	chr2:g.47414288C>T	MSH2 S271F	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.878
+c3ee5e15-5b78-556a-8900-ee20c9301d9c	chr10:g.845003T>G	LARP4B K161N	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.997
+c4c9dcb2-cc2b-5dff-8bc8-c0f53bd596b1	chr20:g.41118204A>T	TOP1 N620Y	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+c5731509-2e54-5658-b8ca-049712353d40	chr19:g.8979651G>T	MUC16 S496R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	possibly_damaging	0.632
+c5799c7e-220e-5ca4-b2cd-e0d260a463fb	chr2:g.32467965C>G	BIRC6 Y1878*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+c5d381c6-bcfc-57b6-8032-8a0c82239a26	chr22:g.19219918C>T	CLTCL1 E962=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+c71abe37-b79f-5c37-bc9c-3d4e7068b4bf	chr5:g.158712306G>T	EBF1 S466*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+c73f51b2-add0-5c02-ae79-17c5876c0cde	chr7:g.129205752C>T	SMO A297V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.06	possibly_damaging	0.453
+c74737e4-644d-5e22-b4bf-1a5c85392d8c	chr2:g.222924525C>G	ACSL3 L408V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.04	probably_damaging	0.976
+c77a4520-a715-592e-886a-d8d68941f352	chr17:g.7675216C>G	TP53 K132N	Substitution	Missense	1	236	0.42	13	16477	0.08	MODERATE	deleterious	0.0	probably_damaging	0.999
+c9052df0-791f-5c3b-ba0d-6326f1fa0d05	chrX:g.130020997C>A	BCORL1 P1152T	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.56	benign	0.281
+c93a7146-46a7-5c54-bb25-242d361d6f63	chrX:g.101360089C>A	BTK E314*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+cae851d0-00bb-5041-b1c6-3e1cb055d2d1	chr14:g.99174688C>T	BCL11B A716=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+caff0776-240b-5118-acf2-a7a15f16bc39	chr11:g.108271359delCACAAGGGATGCT	ATM T1011Kfs*7	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+cb58e27b-1de2-599d-866f-5ca161ddfd4c	chr17:g.31330320T>A	NF1 C1878*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+cb7198f7-48d0-5101-b357-d68c205c41ad	chr5:g.112843222G>A	APC R2543K	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.24	probably_damaging	0.987
+cce738df-97fd-5d1d-96d7-851583e042b7	chr8:g.102285771C>T	UBR5 A1742=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+cd63f138-948e-57e7-93a6-8146fe77bf0d	chr3:g.41224600_41224601insA	CTNNB1 Y30*	Insertion	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+ce072756-592a-5fa4-8d65-3081ba3ce36b	chr19:g.11039525G>A	SMARCA4	Substitution	Intron	1	236	0.42	1	16477	0.01	MODIFIER				
+ce13fad9-c478-5d9d-913e-56b5f3e42bb4	chr18:g.44951621G>A	SETBP1 V761M	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.996
+ce6c712b-6036-5d3a-a181-5474c86e10f8	chr12:g.49051423G>C	KMT2D P754A	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.02	benign	0.125
+cebc6cec-eb8a-5242-ba70-7f73b852bebc	chr8:g.92017311C>T	RUNX1T1 T106=	Substitution	Synonymous	1	236	0.42	2	16477	0.01	LOW				
+cf0fb2aa-3bc6-5f26-80a9-2e81cc587b9c	chr2:g.140950361G>A	LRP1B H1004Y	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.14	probably_damaging	0.977
+cf578c59-c74b-548d-99c4-36d24f3e59b8	chr5:g.56859770C>T	MAP3K1 A230V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated_low_confidence	0.11	benign	0.014
+cfbdc613-509b-512b-9dbb-975e746c3133	chr13:g.91399066C>A	GPC5 P7H	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.02	benign	0.193
+cfe6ad09-a201-5b4e-8ef0-b66211871907	chr5:g.150125524G>C	PDGFRB G576=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+d01ebf5d-d67e-5ae7-b763-cf2562e644dd	chr17:g.31214586G>T	NF1 X509_splice	Substitution	Splice Donor	1	236	0.42	1	16477	0.01	HIGH				
+d04ccf21-3ff9-5d3e-9c4d-1e6cf2b20881	chr7:g.102115257G>A	CUX1 E231K	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.07	probably_damaging	0.991
+d1da59a6-1812-525e-a0f4-d40c117fa6d9	chrX:g.47173131C>A	RBM10 R211S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.623
+d2946091-36a0-5449-9fcc-757fbd485234	chr11:g.108252900delG	ATM S629Tfs*20	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+d33cc64f-0755-51c3-981b-b9edb6096134	chr17:g.58358424C>T	RNF43 C451Y	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.85	benign	0.059
+d35cff93-21c9-5d8b-8927-4cf12de59cc2	chrX:g.64192904G>A	AMER1 P128L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.01	benign	0.091
+d4098a43-cdb4-54e0-86fd-1eb34056b4d1	chr22:g.36294109T>C	MYH9 K1274E	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.09	benign	0.347
+d475be09-26f9-59ae-a18e-9b265e03a709	chr9:g.130884786C>T	ABL1 H851=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+d4c2e0e4-8e54-5da9-be47-75c199b36d10	chr18:g.52752109C>G	DCC A49=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+d4c72b6a-be38-5da8-8e54-7874af9676f4	chr12:g.49022643T>C	KMT2D T5429A	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.01	probably_damaging	0.978
+d5742cea-b0f0-5c0e-86a2-c422519ae4f1	chr12:g.111785302C>A	ALDH2 V132=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+d5aa2f81-2290-54a6-85e0-1c919d626f0b	chr12:g.114674352C>G	TBX3 G528A	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.52	probably_damaging	0.995
+d5c5bc5a-753f-5a7f-abc0-32120507e6cf	chr2:g.29328457G>A	ALK A436V	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	tolerated	0.14	benign	0.046
+d652bf02-6c81-5e6e-9ab8-d383695c5a72	chr12:g.132673267G>C	POLE T457R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.01	benign	0.401
+d69e3a7e-4d96-545b-b945-3a146cd2c009	chr19:g.8958819G>T	MUC16 P5984Q	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.04	benign	0.19
+d74493d8-3a6c-58c6-bf49-1847fad14d89	chr15:g.87880411C>A	NTRK3 M756I	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.01	probably_damaging	0.995
+d781a115-cd18-5124-89de-648d8915ee8b	chr19:g.8949780G>T	MUC16 T8997K	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated_low_confidence	0.08	possibly_damaging	0.451
+d782809f-eac3-564f-86ee-2a06c2772beb	chr17:g.7676152_7676153insG	TP53 V73Rfs*76	Insertion	Frameshift	1	236	0.42	7	16477	0.04	HIGH				
+d7d41d3d-13b6-5698-888a-e90f1ace7ac8	chr2:g.32594028C>T	BIRC6 A4490V	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	tolerated	0.24	benign	0.005
+d809ca44-3fbf-5b0d-80b3-26ce2a65c45b	chr18:g.44952135G>T	SETBP1 S932I	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.01	possibly_damaging	0.51
+d840a95f-347b-57ae-9ec4-045dabbd46de	chr3:g.181712596G>T	SOX2 W79L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.656
+d8ee7647-ad03-5462-b108-2a05553a1000	chr22:g.29049357delC	ZNRF3 V394Sfs*4	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+d8fc2408-8575-5003-9ed9-995a75cdb0f1	chr7:g.102201460G>T	CUX1 Q732H	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.03	probably_damaging	0.997
+d903dc5f-ecca-563a-b253-dba5ee744797	chr6:g.167022512C>G	CEP43 S228C	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.02	possibly_damaging	0.711
+d999a9af-d24e-5d68-bdf2-9a51649742a7	chr1:g.3412048G>C	PRDM16 T617=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+d9d584bd-11c9-5e0f-a600-77c6a16f7af7	chr10:g.129766918G>T	MGMT G213V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.02	benign	0.014
+dadc897f-a44f-520e-9198-e64a8b701c0a	chr16:g.72795328delGC	ZFHX3 P2452Qfs*76	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+daedef7b-0624-5aec-95cc-6090dfb95fcb	chrX:g.71130151T>A	MED12 H1328Q	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.15	possibly_damaging	0.476
+db1ce81a-a0cd-5d61-a5b9-65f672173a75	chr3:g.13637618G>A	FBLN2 R1132H	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.04	benign	0.048
+dc2777c4-5a24-5d60-8040-fc744ddfe45e	chrX:g.130015074delA	BCORL1 K769Rfs*14	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+dc319b48-db3d-5ba2-93c4-f35162838b51	chr8:g.41704068G>A	ANK1 N789=	Substitution	Synonymous	1	236	0.42	2	16477	0.01	LOW				
+dc7e7dd5-4550-5caf-b8a7-39149495c253	chr8:g.41933366C>T	KAT6A M1620I	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	benign	0.421
+dca40bb9-ec34-53b2-a27e-ed390c222952	chr13:g.35070807T>C	NBEA L509S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.996
+dd0627d4-2b20-59ca-8bb7-f462b93d9c6b	chr15:g.89320815C>T	POLG A978T	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+dd1d965a-8b16-5a26-b95a-87b46df05d71	chr12:g.57099799A>G	STAT6 I589T	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.985
+dd321b1c-5ff2-5dd6-8c4c-397a932feb77	chr15:g.88135395G>T	NTRK3 P304T	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.898
+dd76c0e9-da53-500d-b8a8-83cdb089cb3d	chr14:g.102085900A>T	HSP90AA1 S251=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+dd7e632b-451c-5904-88e5-f7ddcfe65542	chr3:g.142562596A>G	ATR F269S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	probably_damaging	0.994
+de2a1c30-a211-52ae-b548-6cc86764aea2	chrX:g.153558147C>A	ATP2B3 S823=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+dec9b217-c75c-53f5-a08b-fa844b1f2ea4	chr19:g.8952577T>C	MUC16 S8065G	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	benign	0.015
+dee62778-4fa9-581a-8033-48491514c7cb	chr8:g.68108324G>A	PREX2 S977=	Substitution	Synonymous	1	236	0.42	2	16477	0.01	LOW				
+df3d56f0-1a11-5f04-a648-30c299eac4f9	chr20:g.58854482C>A	GNAS A406E	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated_low_confidence	0.32	possibly_damaging	0.446
+df5d55d7-d9e8-52d9-b317-4f3d6b3c533d	chr2:g.140334475T>C	LRP1B Q4067=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+df6605a7-90c2-58c9-a4fe-17f2bed46d06	chr11:g.108365417G>T	ATM S3027I	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.997
+dfc5da06-b626-5758-a976-37fd1326a8a2	chr7:g.147108280A>G	CNTNAP2 G228=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+e0bab745-5d9d-59e1-a9a9-ad2e01b1c66f	chr4:g.40243836G>A	RHOH E150=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+e128bf39-8076-5d86-a33a-a26b6dd3872e	chr2:g.47799466C>T	MSH6 R495*	Substitution	Stop Gained	1	236	0.42	2	16477	0.01	HIGH				
+e13e7ee5-6aa5-5506-9552-974b2e85f202	chr19:g.6213080G>A	MLLT1 R548C	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.972
+e1ff8e26-1d92-5d9f-b613-ff80e4214cce	chr17:g.31201041T>A	NF1 L356Q	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.04	probably_damaging	0.987
+e26b5320-a06b-5253-9f8f-de7137a61380	chr4:g.125450572G>A	FAT4 D3188N	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.997
+e270acf2-1284-5574-be14-0f0cb921c4ae	chr19:g.1220641C>T	STK11 Q220*	Substitution	Stop Gained	1	236	0.42	5	16477	0.03	HIGH				
+e2e2b43b-fa9c-522d-b091-ab582308f1f2	chr8:g.42968050G>C	HOOK3 V320L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.39	possibly_damaging	0.669
+e30f5476-6461-5d51-af32-c58554d7296a	chr6:g.134173529delGAC	SGK1 S184del	Deletion	Inframe Deletion	1	236	0.42	1	16477	0.01	MODERATE				
+e3ea3d31-31a8-5bd5-aa07-1978eff70473	chr19:g.6853948delG	VAV1 G779Efs*82	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+e4347ab2-fe92-5e2d-94b9-8f1904b62071	chr8:g.113173881G>A	CSMD3 P184S	Substitution	Missense	1	236	0.42	4	16477	0.02	MODERATE	deleterious	0.02	benign	0.254
+e45bc508-493a-58ca-9a13-5015ae34a290	chr12:g.58874219C>T	LRIG3 S984N	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	tolerated_low_confidence	0.34	benign	0.0
+e4c55364-43d0-509a-8cd9-d6d5523816ee	chr13:g.20051514G>A	ZMYM2 D792N	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.76	probably_damaging	0.996
+e4d0f661-0269-53d8-ba4c-b5531f076275	chr17:g.31337403G>T	NF1 E2155*	Substitution	Stop Gained	1	236	0.42	1	16477	0.01	HIGH				
+e5e3f07e-5a31-54b4-911d-1734519f8e3c	chr6:g.33321057delAT	DAXX C240*	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+e5f85c95-4fbd-5c71-a106-e2c0098907b8	chr5:g.11364703C>G	CTNND2 T455=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+e687e348-3c78-58db-9739-8b0ee66e80d5	chr11:g.32428542G>T	WT1 H247N	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.03	benign	0.217
+e6afdb9e-451f-5ab1-a709-c700e3474422	chr2:g.61502296C>T	XPO1 V106I	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	1.0	benign	0.0
+e6b9911f-180b-5b6e-aa52-7d9d0703ef23	chr13:g.102846274T>A	ERCC5 V3D	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+e6e06778-0f96-5857-95c0-2bfcccdd0ac5	chr19:g.1220444C>G	STK11 P179R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+e77ff2cf-5e22-58ea-9ed6-1200fbe75f47	chr17:g.38914323A>C	LASP1 X120_splice	Substitution	Splice Acceptor	1	236	0.42	1	16477	0.01	HIGH				
+e7b6ca1c-c807-5571-904f-71993718c4a3	chr14:g.81091132A>T	TSHR I152=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+e7d85fa3-f87d-555a-8f22-34062274217e	chr17:g.31261725delT	NF1 G1532Efs*42	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+e7f9f4aa-de43-54d8-a20a-9ea504f39471	chr19:g.8969858G>T	MUC16 T3166N	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated_low_confidence	0.05	benign	0.031
+e99f4d7b-49c4-5e3a-918b-ee23551afef9	chr9:g.92417459C>G	OMD E34Q	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.05	benign	0.026
+e9a74cec-aefa-5dec-9c45-1d6c376ded95	chr11:g.92764924C>A	FAT3 R1344S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.951
+ea3acf37-5ea2-5860-bab6-c873a3356834	chr19:g.6822258G>A	VAV1 V163M	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+eab11d35-0a51-5f79-8992-c519e6660473	chr3:g.41224643delCTT	CTNNB1 S45del	Deletion	Inframe Deletion	1	236	0.42	10	16477	0.06	MODERATE				
+eb41c4bb-7e35-554f-94a4-c9eb05e53083	chr5:g.171309774G>A	TLX3 D137N	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.03	benign	0.314
+eb778cf4-0d0e-509d-9359-3d1b34bb1eba	chr3:g.53723844delTCCATCGCT	CACNA1D I670_S672del	Deletion	Inframe Deletion	1	236	0.42	1	16477	0.01	MODERATE				
+ebc5c5e4-edf1-5111-afd8-6af5de8fa55b	chr13:g.48707224G>A	CYSLTR2 R136H	Substitution	Missense	1	236	0.42	5	16477	0.03	MODERATE	deleterious	0.01	probably_damaging	1.0
+ec62f7d3-f891-524c-840c-8f4087839835	chr2:g.36869582T>A	STRN N491Y	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.992
+ec971fee-3fbd-54c7-a06b-4c37a8eb0f39	chr7:g.129206331C>G	SMO P368A	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.943
+eca26405-153e-5441-a86f-5b9b382483a9	chr21:g.38445487G>A	ERG V58=	Substitution	Synonymous	1	236	0.42	4	16477	0.02	LOW				
+ece6911e-5730-5bdf-aabd-5e2d39621d62	chr17:g.31327810_31327811insA	NF1 N1861Kfs*6	Insertion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+ed3c2292-57a9-5829-95ae-182b1961cdd0	chr8:g.38318035G>T	NSD3	Substitution	Intron	1	236	0.42	1	16477	0.01	MODIFIER				
+ed8384c3-c98c-5631-a9ef-8474422c76df	chrX:g.124037556_124037557insA	STAG2 H108Afs*2	Insertion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+eda7c4f2-ce4c-5947-a657-1d3d3d28f8a9	chr19:g.8949868G>A	MUC16 P8968S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	benign	0.148
+ee851c9e-a623-51c7-babe-f4ed58ca7140	chr7:g.20141145G>T	MACC1 P787H	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.92
+eeb8c28c-e979-5d50-83d8-16f25136000d	chr18:g.44952722A>G	SETBP1 M1128V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.42	benign	0.0
+eec1bc0b-e200-57e9-8c0b-e5fea8c694ea	chrX:g.53383203C>T	SMC1A Q1008=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+eedb802d-8700-55d8-af93-0a3d8e1ab851	chr12:g.104757106G>A	CHST11 C121Y	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+ef91276a-5bc5-50d2-ac63-2cb65c5d9ca6	chr2:g.25282526T>A	DNMT3A A121=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+efb64493-db9f-5e1c-907f-3db2c3ab7406	chr1:g.154169328G>A	TPM3 H277=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+f001c5ad-6192-5af4-8cf2-fe49d98bc54a	chrX:g.48689420C>T	WAS A480V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.39	benign	0.001
+f00afe59-bb91-5d89-b3ec-0873c166128b	chrX:g.126165552C>A	DCAF12L2 V125L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.07	probably_damaging	0.988
+f00c1245-fd90-5000-9cc9-0ec70644247e	chr8:g.113436842G>T	CSMD3 R5S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated_low_confidence	0.57	benign	0.005
+f0b3cea5-ec1c-5796-954f-334d1631b595	chr12:g.57092545delGA	NAB2 S354Hfs*14	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+f1c0bd58-4b65-578b-915c-52dec1bc9045	chr17:g.68515530delAGAGACCCATGGCATTCCTCAGGGA	PRKAR1A E44Dfs*77	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+f1f0dba9-0451-57bf-8162-2df6c860bc5d	chr9:g.136496998C>G	NOTCH1 L2247=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+f26e4fe5-d447-5442-8761-9e097647f6ca	chr14:g.99231438delG	BCL11B L183Cfs*98	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+f2bbd26a-deb5-55d0-95d3-2129478cb5ee	chr2:g.214728839G>A	BARD1 A724V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+f2be3920-c1e9-5632-847d-bf59af674184	chr10:g.95043067C>T	CYP2C8 Q324=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+f30eff41-985d-5e6a-b1b6-9236ee5499a4	chr4:g.186708512G>T	FAT1 T439K	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.44	benign	0.425
+f3bb90f5-168c-5e48-a9e7-ce2409114b72	chr4:g.186619912C>A	FAT1 S2227I	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.17	possibly_damaging	0.674
+f46ea386-5dcf-570f-963b-e729a8c126b5	chrX:g.108736216G>T	IRS4 L43=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+f47b4182-9bcd-50a5-a3a3-f874cbf5070d	chr16:g.72794328A>C	ZFHX3 L2785R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.16	possibly_damaging	0.641
+f4a19b23-ed38-5454-9770-13902d42cd0f	chr7:g.92017082C>A	AKAP9 L1273I	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.01	possibly_damaging	0.607
+f4e282b7-78af-521d-9253-252cfc795a54	chr19:g.8974286T>C	MUC16 T2285A	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	benign	0.0
+f521123d-ce5f-5982-b7db-4550758f99a8	chr8:g.91960460G>T	RUNX1T1 R592=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+f55dccb3-186d-5279-ae22-df3ba3cef147	chr17:g.31349156delCAGT	NF1 V2410Efs*7	Deletion	Frameshift	1	236	0.42	1	16477	0.01	HIGH				
+f60347d1-9463-51bb-9364-68ef9917012b	chr22:g.29661324G>A	NF2 S265=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+f61f2461-e32f-5fae-a85d-c0bd3b5b441b	chrX:g.40077884T>G	BCOR N16H	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	possibly_damaging	0.613
+f67759b0-69d8-5aa1-8f77-052a3185fc4c	chr12:g.68839643G>C	MDM2 E455Q	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.09	benign	0.333
+f7b57f17-c9be-5f08-b81e-a87a9c0d03ad	chr4:g.186606126C>T	FAT1 D3434N	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.703
+f862788a-8df8-5aba-b824-d0c5fdbcc972	chr11:g.119278570G>T	CBL V430L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.05	benign	0.274
+f8630230-60b7-574d-8289-a773fec3fd0a	chr17:g.31201423C>T	NF1 Q400*	Substitution	Stop Gained	1	236	0.42	5	16477	0.03	HIGH				
+f88cba31-2346-582a-af44-13e9bcf043c1	chr8:g.138265771G>A	FAM135B R77W	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+f995086c-cde7-5089-9c68-78f24edb3c53	chr1:g.205623762C>A	ELK4 V41L	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.988
+f9c9b80d-cf65-58f4-8cc3-c6d951d01b0a	chrX:g.124081516C>T	STAG2 A971V	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.35	probably_damaging	0.919
+fa33e0aa-f7e9-5fad-a53b-16af5be6f6d5	chr6:g.167880512G>T	AFDN A297S	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.04	possibly_damaging	0.485
+faa580ad-0949-5e0e-88ec-d3d482519822	chr15:g.92978331A>G	CHD2 Q892R	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.0	probably_damaging	0.952
+facf751a-05b5-569b-b75b-142c69f21c76	chr10:g.68691010A>T	TET1 S1869=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+fc1df054-1f42-502c-96dc-c61641ba4eea	chr9:g.93263626T>C	WNK2 F1157=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+fc46a0bf-024d-5f2f-be80-134bf4b54133	chr5:g.112840382G>C	APC Q1596H	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	tolerated	0.14	possibly_damaging	0.862
+fc72c509-c394-50e6-8569-5886f3b42cac	chr5:g.171310202C>T	TLX3 Y158=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+fcb1e134-32b2-5a35-accc-dc926fd18501	chr5:g.35867439delA	IL7R I121*	Deletion	Frameshift	1	236	0.42	11	16477	0.07	HIGH				
+fd02311f-21be-57e8-b6bf-32f838945644	chr3:g.142568087G>A	ATR R43W	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious_low_confidence	0.0	probably_damaging	0.965
+fd3deff0-d492-583b-a686-70e2d66d76d5	chr17:g.68524910A>G	PRKAR1A X168_splice	Substitution	Splice Acceptor	1	236	0.42	1	16477	0.01	HIGH				
+fd5cc873-251f-56ad-9ec2-64c5fa0a7167	chr7:g.50400411G>C	IKZF1 A448=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+fe046d16-1df6-5c9c-923c-fd6cac815106	chr17:g.7675994C>A	TP53 T125=	Substitution	Splice Region	1	236	0.42	35	16477	0.21	LOW				
+ff4338ee-68a9-57e0-9525-089a12680ced	chr1:g.149012700C>A	PDE4DIP G1866=	Substitution	Synonymous	1	236	0.42	1	16477	0.01	LOW				
+ff4c62c6-a11f-5f86-8d2d-ffe8af9e9a12	chr2:g.177230919G>A	NFE2L2 L562F	Substitution	Missense	1	236	0.42	2	16477	0.01	MODERATE	deleterious	0.01	possibly_damaging	0.809
+ff52af67-5d2d-5429-adc4-24bb57ecf1af	chr10:g.102599537C>T	SUFU R339W	Substitution	Missense	1	236	0.42	1	16477	0.01	MODERATE	deleterious	0.04	probably_damaging	0.995
